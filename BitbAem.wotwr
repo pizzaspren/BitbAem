@@ -1,0 +1,1161 @@
+// Format Version: 1.0.0
+// Slug: BitbAem!
+// Config: {"worldSettings":[{"spawn":"MarshSpawn.Main","difficulty":"Unsafe","hard":false,"randomizeDoors":false,"goals":[],"headers":[],"headerConfig":[],"inlineHeaders":[]}],"disableLogicFilter":true,"online":false,"createGame":"None"}
+    
+
+// Wheels
+3|1|16|0|0|0|@RULES@
+3|1|16|1|0|0|Read me!
+3|1|16|2|0|0|spell:2018
+3|1|16|4|0|0|0|8|9|0|int|2
+9|0=2|4|17|9|101|0|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Grenade Zoomies, Hammer Jumps, Pause Floats, QtM to warp or clip into terrain, Sentry Jumps, Wavedashes (Dash/Blaze+Regen)|f=900|instant
+9|0=2|4|17|9|101|1|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n5. Hard mode is very hard. You are more than welcome to ask for help :oriHug:\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Grenade Zoomies, Hammer Jumps, Pause Floats, QtM to warp or clip into terrain, Sentry Jumps, Wavedashes (Dash/Blaze+Regen)|f=900|instant
+3|1|16|0|0|1|Hall of Fame
+3|1|16|1|0|1|Fastest times for different categories
+3|1|16|2|0|1|shard:12
+3|1|16|4|0|1|0|16|6|2
+3|1|16|0|2|0|First recorded completions
+3|1|16|1|2|0|Press to see
+3|1|16|2|2|0|shard:24
+3|1|16|4|2|0|0|6|$Standard$: Empty - 00h 00m 00s\n@Hard@: Empty - 00h 00m 00s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
+3|1|16|0|2|1|Fastest recorded completions
+3|1|16|1|2|1|Press to see
+3|1|16|2|2|1|spell:4000
+3|1|16|4|2|1|0|6|$Standard$: Empty - 00h 00m 00s\n@Hard@: Empty - 00h 00m 00s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
+3|1|16|0|2|2|Top 10 fastest *Launch* pickups
+3|1|16|1|2|2|Press to see
+3|1|16|2|2|2|spell:2019
+3|1|16|4|2|2|0|6|1. Empty - 00h 00m 00s - $Standard$
+3|1|16|0|2|3|Least hitless deaths
+3|1|16|1|2|3|Press to see
+3|1|16|2|2|3|shard:13
+3|1|16|4|2|3|0|6|1. Empty - 0 deaths
+3|1|16|0|0|3|Wither
+3|1|16|1|0|3|Useful if you're stuck\n\nShortcut: Alt+5
+3|1|16|2|0|3|file:assets/icons/wheel/force_exit.png
+3|1|16|4|0|3|0|8|5|11|float|-250
+3|6|8|5|11|float|-250
+3|1|16|0|0|6|Knowledge Hints
+3|1|16|1|0|6|Relevant info about\nthe plando
+3|1|16|2|0|6|shard:30
+3|1|16|4|0|6|0|16|6|1
+9|0=3|6|Knowledge Hints updated in the rando wheel!
+3|1|16|0|1|0|Exploration
+3|1|16|1|1|0|Difficult tricks and rewards
+3|1|16|2|1|0|lupo:1
+3|1|16|4|1|0|0|6|This plando has an intended route to follow. Correctly progressing the intended route awards #100# Spirit Light. To incentivize exploration, you will get different rewards based on the difficulty of optional tricks.\n\n1. <purple>Gorlek Ore</> -> Difficult optional pickup.\n2. Launch Fragment -> The hardest pickup in each area.|f=480|instant
+3|1|16|0|1|1|Region-locked abilities
+3|1|16|1|1|1|Making the game less fun since 2025
+3|1|16|2|1|1|lupo:2
+3|1|16|4|1|1|0|6|Some abilities in this plando are bound to specific regions or puzzles.\nExiting the area will automatically remove the ability until you come back.\n\nThese pickups look like this:\n*Jump* [<purple>Restricted to (some area)</>]|f=480|instant
+21786|6987|8|9|0|int|3
+21786|6987|16|0|1|2|$Turmoil$
+21786|6987|16|2|1|2|shard:38
+21786|6987|16|4|1|2|0|6|$Turmoil$ greatly reduces the respawn timer for enemies and enables enemies to respawn while Ori is closer than normal.\n\nI strongly recommend having Turmoil equipped at all times, or at least when trying to solve a puzzle involving enemies. If the enemies get stuck in an undesirable position or otherwise die, Turmoil will allow you to reset the puzzle quicker.\n\nKeep in mind that equipping Turmoil once the enemies are already dead @has no effect@.|f=600|instant
+3|1|4|17|21786|6987|1|16|0|1|2|$Turmoil$
+3|1|4|17|21786|6987|1|16|2|1|2|shard:38
+3|1|4|17|21786|6987|1|16|4|1|2|0|6|$Turmoil$ greatly reduces the respawn timer for enemies and enables enemies to respawn while Ori is closer than normal.\n\nI strongly recommend having Turmoil equipped at all times, or at least when trying to solve a puzzle involving enemies. If the enemies get stuck in an undesirable position or otherwise die, Turmoil will allow you to reset the puzzle quicker.\n\nKeep in mind that equipping Turmoil once the enemies are already dead @has no effect@.|f=600|instant
+3|1|16|0|1|3|Breakable walls
+3|1|16|1|1|3|General purpose\ninformation on\nbreakable walls
+3|1|16|2|1|3|grom:1
+3|1|16|4|1|3|0|6|All breakable walls have a healthbar. The following enemy attacks will deal damage and break them in most cases.\n\n1. Mantis #stomps#.\n2. Pouncer #claw# and #pounce# attacks.\n\nAlmost all breakable floors can be damaged by a Mantis #stomp#. The only exception is the bone bridge in Howl's Den.|f=600|instant
+9593|17818|4|17|9|101|0|8|9|0|int|3
+21786|63545|4|17|9|101|1|8|9|0|int|3
+9593|17818|4|17|9|101|0|16|0|1|4|$Ultra Bash$
+9593|17818|4|17|9|101|0|16|2|1|4|shard:32
+9593|17818|4|17|9|101|0|16|4|1|4|0|6|$Ultra Bash$ deals damage to the targets you are bashing.\n\nAfter ultrabashing, during #0.5 seconds#, Ori also gains a damaging aura. When Ori comes into contact with the @hurtbox@ of #most things that have a healthbar#, the Ultra Bash damage will also be applied.\n\n<ls_0.8><s_0.8>It is possible to bash a target without Ultra Bash equipped, and immediately equip it within the first few frames to obtain the damaging aura. While this can help you preserve the HP of whatever you are bashing, this trick is not required for this plando.|f=900|instant
+21786|63545|4|17|9|101|1|16|0|1|4|$Ultra Bash$
+21786|63545|4|17|9|101|1|16|2|1|4|shard:32
+21786|63545|4|17|9|101|1|16|4|1|4|0|6|$Ultra Bash$ deals damage to the targets you are bashing.\n\nAfter ultrabashing, during #0.5 seconds#, Ori also gains a damaging aura. When Ori comes into contact with the @hurtbox@ of #most things that have a healthbar#, the Ultra Bash damage will also be applied.\n\n<ls_0.8><s_0.8>It is possible to bash a target without Ultra Bash equipped, and immediately equip it within the first few frames to obtain the damaging aura. While this can help you preserve the HP of whatever you are bashing, this trick is not required for this plando.|f=900|instant
+3|1|4|17|9|101|0|4|17|9593|17818|1|16|0|1|4|$Ultra Bash$
+3|1|4|17|9|101|0|4|17|9593|17818|1|16|2|1|4|shard:32
+3|1|4|17|9|101|0|4|17|9593|17818|1|16|4|1|4|0|6|$Ultra Bash$ deals damage to the targets you are bashing.\n\nAfter ultrabashing, during #0.5 seconds#, Ori also gains a damaging aura. When Ori comes into contact with the @hurtbox@ of #most things that have a healthbar#, the Ultra Bash damage will also be applied.\n\n<ls_0.8><s_0.8>It is possible to bash a target without Ultra Bash equipped, and immediately equip it within the first few frames to obtain the damaging aura. While this can help you preserve the HP of whatever you are bashing, this trick is not required for this plando.|f=900|instant
+3|1|4|17|9|101|1|4|17|21786|63545|1|16|0|1|4|$Ultra Bash$
+3|1|4|17|9|101|1|4|17|21786|63545|1|16|2|1|4|shard:32
+3|1|4|17|9|101|1|4|17|21786|63545|1|16|4|1|4|0|6|$Ultra Bash$ deals damage to the targets you are bashing.\n\nAfter ultrabashing, during #0.5 seconds#, Ori also gains a damaging aura. When Ori comes into contact with the @hurtbox@ of #most things that have a healthbar#, the Ultra Bash damage will also be applied.\n\n<ls_0.8><s_0.8>It is possible to bash a target without Ultra Bash equipped, and immediately equip it within the first few frames to obtain the damaging aura. While this can help you preserve the HP of whatever you are bashing, this trick is not required for this plando.|f=900|instant
+53632|62356|16|0|1|5|Vertical Bash Chains
+53632|62356|16|2|1|5|shard:32
+53632|62356|16|4|1|5|0|6|Some enemies allow you to gain $infinite height$ by #bashing them upwards# and #air-stalling# until you can re-bash.\nThe easiest way to do this is by #holding# *Glide* or by *Double Jump*#ing right after bashing#.\n\nKeep in mind that some enemies are easier to work with than others. For example, <purple>Slugs</> are too lightweight and you will fall down before you can regrab it. <purple>Gorleks</> are too heavy and you won't even make them budge.|f=900|instant
+3|1|4|17|53632|62356|1|16|0|1|5|Vertical Bash Chains
+3|1|4|17|53632|62356|1|16|2|1|5|shard:32
+3|1|4|17|53632|62356|1|16|4|1|5|0|6|Some enemies allow you to gain $infinite height$ by #bashing them upwards# and #air-stalling# until you can re-bash.\nThe easiest way to do this is by #holding# *Glide* or by *Double Jump*#ing right after bashing#.\n\nKeep in mind that some enemies are easier to work with than others. For example, <purple>Slugs</> are too lightweight and you will fall down before you can regrab it. <purple>Gorleks</> are too heavy and you won't even make them budge.|f=900|instant
+53632|62356|4|17|9|101|1|16|0|1|6|Bash GlideJumps
+53632|62356|4|17|9|101|1|16|2|1|6|spell:4002
+53632|62356|4|17|9|101|1|16|4|1|6|0|6|*Glide Jumps* are a movement technique that allow you to store $an extra airjump$ as long as you are gliding. The OriRando wiki has an explanation on how they work.\n\nIt just so happens that using *Bash* is also a valid setup for *standing Glide Jumps*. As a rule of thumb: If #both Ori and the enemy# are on solid ground, and #the enemy is slightly above Ori#, you can store a *Glide Jump*.|f=720|instant
+3|1|4|17|53632|62356|1|4|17|9|101|1|16|0|1|6|Bash GlideJumps
+3|1|4|17|53632|62356|1|4|17|9|101|1|16|2|1|6|spell:4002
+3|1|4|17|53632|62356|1|4|17|9|101|1|16|4|1|6|0|6|*Glide Jumps* are a movement technique that allow you to store $an extra airjump$ as long as you are gliding. The OriRando wiki has an explanation on how they work.\n\nIt just so happens that using *Bash* is also a valid setup for *standing Glide Jumps*. As a rule of thumb: If #both Ori and the enemy# are on solid ground, and #the enemy is slightly above Ori#, you can store a *Glide Jump*.|f=720|instant
+3|1|16|0|0|9|Where should I go?
+3|1|16|1|0|9|You can ask for guidance here
+3|1|16|2|0|9|file:assets/icons/wheel/quests_progress.png
+3|1|16|4|0|9|0|8|9|0|int|4
+9|0=4|4|17|0|100|0|6|Lift the rain...
+9|0=4|4|17|0|100|1|4|17|21786|53932|0|6|Howl's Den Teleporter...
+9|0=4|4|17|21786|53932|1|4|17|0|5|0|6|Find a way to get into Midnight Burrows...
+9|0=4|4|17|0|5|1|4|17|14019|52747|0|6|Mysterious tablet...
+9|0=4|4|17|14019|52747|1|4|17|21786|35166|0|6|Millview...
+9|0=4|4|17|21786|35166|1|4|17|937|64003|0|6|Open Kwolok's statue...
+9|0=4|4|17|937|64003|1|4|17|937|42245|0|6|Drain the purple juice...
+9|0=4|4|17|937|42245|1|4|17|0|102|0|6|Dash tree...
+9|0=4|4|17|0|102|1|4|17|21786|59990|0|6|Mouldwood Depths...
+9|0=4|4|17|21786|59990|1|4|17|18793|29979|0|6|Spirit Light by the Teleporter...
+9|0=4|4|17|18793|29979|1|4|17|0|62|0|6|Explore Depths...
+9|0=4|4|17|0|62|1|4|17|23987|986|0|6|Find a way to turn off the lights...
+9|0=4|4|17|23987|986|1|4|17|9|108|0|6|Mora...
+9|0=4|4|17|9|108|1|4|17|6|2000|0|6|Millview ceiling...
+9|0=4|4|17|6|2000|1|4|17|945|10682|0|6|Luma Pools current Spirit Light...
+9|0=4|4|17|945|10682|1|4|17|5377|63173|0|6|Luma Pools central Teleporter...
+9|0=4|4|17|5377|63173|1|4|17|5377|8451|0|6|Hand to hand...
+9|0=4|4|17|5377|8451|1|4|17|9|101|0|4|17|14019|28662|0|6|Find permanent Water Dash...
+9|0=4|4|17|5377|8451|1|4|17|9|101|1|4|17|0|104|0|6|Find permanent Water Dash...
+9|0=4|4|17|9|101|0|4|17|14019|28662|1|4|19|945|58403|4|6|Kwolok...
+9|0=4|4|17|9|101|1|4|17|0|104|1|4|19|945|58403|4|6|Kwolok...
+9|0=4|4|17|14019|35087|4|4|17|53632|21124|0|6|Luma-Wellspring path...
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|6|Required Progression Keystones $(9|8)/4\nOne in each: Wellspring, Baur's Reach, Glades, Silent Woods
+9|0=4|4|17|9|8|4|4|17|0|101|0|6|Burrow tree...
+9|0=4|4|17|0|101|1|4|17|14019|20601|0|6|Find *Burrow* in Windswept Wastes...
+9|0=4|4|17|14019|20601|1|4|17|0|8|0|6|Launch tree...
+9|0=4|4|17|0|8|1|4|17|16155|28478|0|6|Willow miniboss...
+9|0=4|4|17|16155|28478|1|6|Why are you asking for help? Shriek is @RIGHT THERE@!
+
+// Shops
+3|1|17|1|2|2|Gorlek Ore
+3|1|17|2|2|2|In case you need extra
+3|1|17|0|2|2|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|2|0|8|2|102|int|100
+2|2|8|9|0|int|202
+3|1|17|1|2|26|Gorlek Ore
+3|1|17|2|2|26|In case you need extra
+3|1|17|0|2|26|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|26|0|8|2|126|int|100
+2|26|8|9|0|int|202
+3|1|17|1|2|5|Gorlek Ore
+3|1|17|2|2|5|In case you need extra
+3|1|17|0|2|5|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|5|0|8|2|105|int|100
+2|5|8|9|0|int|202
+3|1|17|1|2|3|Gorlek Ore
+3|1|17|2|2|3|In case you need extra
+3|1|17|0|2|3|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|3|0|8|2|103|int|100
+2|3|8|9|0|int|202
+3|1|17|1|2|40|Gorlek Ore
+3|1|17|2|2|40|In case you need extra
+3|1|17|0|2|40|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|40|0|8|2|140|int|100
+2|40|8|9|0|int|202
+3|1|17|1|2|19|Gorlek Ore
+3|1|17|2|2|19|In case you need extra
+3|1|17|0|2|19|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|19|0|8|2|119|int|100
+2|19|8|9|0|int|202
+3|1|17|1|2|1|Gorlek Ore
+3|1|17|2|2|1|In case you need extra
+3|1|17|0|2|1|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|1|0|8|2|101|int|100
+2|1|8|9|0|int|202
+3|1|17|1|2|22|Gorlek Ore
+3|1|17|2|2|22|In case you need extra
+3|1|17|0|2|22|file:assets/icons/game/gorlekore.png
+3|1|4|17|2|22|0|8|2|122|int|100
+2|22|8|9|0|int|202
+9|0=202|1|2
+3|1|17|3|1|116|true
+3|1|17|3|1|1116|true
+3|1|17|3|1|98|true
+3|1|17|3|1|1098|true
+3|1|17|3|1|106|true
+3|1|17|3|1|1106|true
+3|1|17|3|1|74|true
+3|1|17|3|1|1074|true
+3|1|17|1|1|115|*Regenerate*
+3|1|17|2|1|115|Just in case you need extra healing
+3|1|17|0|1|115|spell:2013
+3|1|4|17|1|115|0|8|1|10115|int|100
+1|115|8|9|0|int|200
+9|0=200|2|77
+9|0=200|6|
+3|1|17|3|1|1115|true
+3|1|17|3|1|23|true
+3|1|17|3|1|105|true
+3|1|17|1|15|57987|#The Last Seed#
+3|1|17|2|15|57987|Plants the Ancient Tree in Glades\n<s_0.6>Extortion? What do you mean?
+3|1|17|0|15|57987|tuley:5
+3|1|4|17|15|57987|0|8|15|57988|int|1000
+15|57987|8|9|0|int|201
+9|0=201|6|#Ancient Tree has been planted!#
+9|0=201|8|42178|40006|bool|true
+3|1|17|3|15|19396|true
+3|1|17|3|15|41666|true
+3|1|17|1|17|16825|Launch Fragment Hint
+3|1|17|2|17|16825|Pickup name for the launch fragment in #Luma#
+3|1|17|0|17|16825|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|16825|0|8|17|16826|int|2
+17|16825|8|9|0|int|203
+9|0=203|4|17|9|102|1|6|The fragment in #Luma# is located in the following pickup:\n$Upper Left Keystone$\n\nNote this down somewhere!|f=480
+9|0=203|4|17|9|102|0|6|The fragment in #Luma# is located in the following pickup:\n$Luma Pools Upper Left Keystone + Howl's Den left Health Cell$\n(Mokk stole it)\n\nNote this down somewhere!|f=480
+3|1|17|1|17|51230|Launch Fragment Hint
+3|1|17|2|17|51230|Pickup name for the launch fragment in #Wellspring#
+3|1|17|0|17|51230|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|51230|0|8|17|51231|int|2
+17|51230|8|9|0|int|204
+9|0=204|4|17|9|102|1|6|The fragment in #Wellspring# is located in the following pickup:\n$Energy Cell above the Wellspring Lever$\n\nNote this down somewhere!|f=480
+9|0=204|4|17|9|102|0|6|The fragment in #Wellspring# is located in the following pickup:\n$UltraGrapple Shard$\n\nNote this down somewhere!|f=480
+3|1|17|1|17|15068|Launch Fragment Hint
+3|1|17|2|17|15068|Pickup name for the launch fragment in #Marsh#
+3|1|17|0|17|15068|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|15068|0|8|17|15069|int|2
+17|15068|8|9|0|int|209
+9|0=209|6|The fragment in #Marsh# is located in the following pickup:\n$Regen Tree$\n\nNote this down somewhere!|f=480
+3|1|17|1|17|16586|Launch Fragment Hint
+3|1|17|2|17|16586|Pickup name for the launch fragment in #Glades#
+3|1|17|0|17|16586|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|16586|0|8|17|16587|int|2
+17|16586|8|9|0|int|206
+9|0=206|6|The fragment in #Glades# is located in the following pickup:\n$Rebuild + Regrow the Glades$\n\nNote this down somewhere!|f=480
+3|1|17|1|17|18751|Launch Fragment Hint
+3|1|17|2|17|18751|Pickup name for the launch fragment in #Reach#
+3|1|17|0|17|18751|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|18751|0|8|17|18752|int|2
+17|18751|8|9|0|int|205
+9|0=205|6|The fragment in #Reach# is located in the following pickup:\n$Lighting up the TP Lantern$\n\nNote this down somewhere!|f=480
+3|1|17|1|17|23607|Launch Fragment Hint
+3|1|17|2|17|23607|Pickup name for the launch fragment in #Woods#
+3|1|17|0|17|23607|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|23607|0|8|17|23608|int|2
+17|23607|8|9|0|int|208
+9|0=208|6|The fragment in #Woods# is located in the following pickup:\n$Overflow Shard$\n\nNote this down somewhere!|f=480
+3|1|17|1|17|40448|Launch Fragment Hint
+3|1|17|2|17|40448|Pickup name for the launch fragment in #Wastes#
+3|1|17|0|17|40448|file:assets/map_icons/launch_fragment.png
+3|1|4|17|17|40448|0|8|17|40449|int|2
+17|40448|8|9|0|int|207
+9|0=207|6|The fragment in #Wastes# is located in the following pickup:\n$Seir$\n\nNote this down somewhere!|f=480
+
+// Spawn Menu Handling
+Spawn: -3537, -5881
+timer: 9|105|9|151
+9|151>=10|8|9|151|float|0
+3|0|8|9|151|float|8
+3|0|8|9|105|bool|true
+3|0|4|8|-3219|-5935.4 // Why is this scene unloaded on spawn :(
+9|150=0|4|17|9|103|0|4|8|-3219|-5935.4
+9|151=0|4|17|9|103|0|6|<s_1.3>Welcome to *BitbAem*!<s_1>\n\nThis plando offers two difficulty modes. The difference between these modes is the difficulty of tricks for the #intended progression path#. Optional objectives and pickups will always assume you are in HARD mode.\n\n$Standard mode$ = Roughly Kii-Unsafe difficulty.\n@Hard mode@ = Unsafe+ difficulty.\n<purple>Hitless mode</> = Hard mode on 1HP.\n\nWhich difficulty would you like to play with?\n<ls_0.32>_____________                     ___________                     _____________\n<ls_0.22>|                            |                   |                       |                   |                            |\n<ls_0.22>  $Standard$                                @Hard@                                   <purple>Hitless</>   <hex_00000000>.<hex_ffffffff>\n<ls_0>|                            |                   |                       |                   |                            |\n<ls_0>_____________                     ___________                     _____________\n<ls_1>   Alt+1                                   Alt+2                                    Alt+3   <hex_00000000>.<hex_ffffffff>\n<ls_-20><hex_00000000>.\n.|f=600|instant|quiet
+3|2|4|17|9|103|0|8|9|101|bool|false
+3|2|4|17|9|103|0|6|You chose to play in #STANDARD MODE#.\nInitializing...|instant
+3|2|4|17|9|103|0|8|9|103|bool|true
+3|3|4|17|9|103|0|8|9|101|bool|true
+3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\nInitializing...|instant
+3|3|4|17|9|103|0|2|62|mute
+3|3|4|17|9|103|0|2|-62|mute
+3|3|4|17|9|103|0|8|9|103|bool|true
+3|4|4|17|9|103|0|8|9|101|bool|true
+3|4|4|17|9|103|0|8|9|102|bool|true
+3|4|4|17|9|103|0|6|You chose to play in <purple>HITLESS MODE</>.\nInitializing...|instant
+3|4|4|17|9|103|0|2|115|mute
+3|4|4|17|9|103|0|2|-115|mute
+3|4|4|17|9|103|0|8|9|103|bool|true
+9|151=0|4|17|9|103|1|8|9|0|int|1
+9|0=1|4|8|-1030.984|-4279.453
+9|0=1|8|9|105|bool|false
+9|0=1|4|0
+
+// Inkwater Marsh
+21786|21727|2|0
+21786|60210|6|Remember to read the rules in the rando wheel
+21786|49485|6|The rando wheel is updated as you play!\nIf you feel stuck, look for hints!\n\nYou should know that there is a knowledge section.\nRead it NOW! (if you want to)|f=600
+21786|6987|3|38
+21786|7152|8|9|1|int|+1
+21786|7152|6|Inkwater Marsh Keystone (*$(9|1)*/*2*)|instant
+21786|17920|8|9|1|int|+1
+21786|17920|6|Inkwater Marsh Keystone (*$(9|1)*/*2*)|instant
+0|77|8|9|90|int|+1
+0|77|6|Launch Fragment (*$(9|90)*/*5*)|instant
+23987|9864|6|*Glide* [<purple>Restricted to Howl's Fang area</>]
+14019|27539|6|#The stone wall beneath Mokk has crumbled#
+14019|27539|8|21786|34008|bool|true
+21786|61706|1|2
+21786|28908|6|#Drained the water in Regen Tree#
+21786|28908|8|6|402|bool|true
+21786|43668|6|You MUST make your way down.
+21786|22068|8|9|91|int|+1
+21786|22068|6|Dash Fragment (*$(9|91)*/*5*)|instant
+0|100|6|*Rain lifted*
+0|100|8|6|401|bool|true
+0|100|8|21786|9402|bool|true
+21786|63545|4|17|9|101|1|3|32
+21786|63545|4|17|9|101|0|6|#The barrier to lower Howl's Den has been broken#
+21786|63545|4|17|9|101|0|8|21786|53932|bool|true
+9593|61304|4|17|9|102|0|8|9|90|int|+1
+9593|61304|4|17|9|102|0|6|Launch Fragment (*$(9|90)*/*5*)|instant
+24922|13993|3|23
+24922|13993|1|4
+9593|17818|4|17|9|101|1|0|15
+9593|17818|4|17|9|101|0|3|32
+0|5|4|17|9|101|1|5|0
+0|5|4|17|9|101|0|6|This would do something if you were playing in hard mode :(
+23987|27134|8|9|2|int|+1
+23987|27134|6|Howl's Den Keystone (*$(9|2)*/*2*)|instant
+0|121|3|33
+24922|62138|6|This pickup is sponsored by *ORIO*, the Spirit-filled cookies.
+24922|32076|2|5|mute
+24922|32076|6|*Double Jump* [<purple>Restricted to the spike tunnel</>]
+9593|23858|6|#The barrier near Tokk has crumbled#
+9593|23858|8|21786|35166|bool|true
+9593|5253|4|17|9|102|1|1|2
+9593|5253|4|17|9|102|0|6|This pickup is very difficult to get in hitless :)
+9593|27562|4|17|9|102|1|1|2
+9593|27562|4|17|9|102|0|6|This pickup is very difficult to get in hitless :)
+21786|20194|1|1
+21786|18109|1|4
+21786|18109|3|43
+9593|59344|4|17|9|101|0|2|5
+9593|59344|4|17|9|101|1|6|I am sorry, this trick is not fun :(|f=300
+9593|59344|4|17|9|101|1|4|17|9|102|1|6|[<purple>Hitless</>] Seek a nearby light. #Opher# can help.|f=300
+0|97|6|#The doors protecting the $Eyestones$ have opened#.\nTeleporting away will close them.\nYou can revisit this tree at any point.|f=480
+0|97|8|21786|50691|bool|true
+0|97|8|21786|41817|bool|true
+21786|10295|4|17|9|101|1|6|*Double Jump* [<purple>Restricted to the Bow Tree surroundings</>]
+21786|10295|4|17|9|101|1|6|This used to be an UltraGrapple trick :(
+21786|10295|4|17|9|101|0|6|You found the *hidden blue cookie*! Delicious.
+21786|27433|4|17|21786|37225|1|6|#Kwolok Statue has opened!#
+21786|27433|4|17|21786|37225|1|8|937|64003|bool|true
+21786|27433|4|17|21786|37225|0|6|#The Kwolok Statue rumbles in approval#
+21786|37225|4|17|21786|27433|1|6|#Kwolok Statue has opened!#
+21786|37225|4|17|21786|27433|1|8|937|64003|bool|true
+21786|37225|4|17|21786|27433|0|6|#The Kwolok Statue rumbles in approval#
+9593|26457|6|*Double Jump* [<purple>Restricted to the spike tunnel on the left</>]
+945|10833|6|*Clean Water*
+945|10833|8|6|2000|bool|true
+21786|23154|0|30
+9593|5929|0|1
+23987|59173|8|4|93|float|+0.2
+23987|59173|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+21786|29892|0|20
+21786|16206|8|4|93|float|+0.2
+21786|16206|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+21786|2852|0|10
+21786|64677|6|You should check out the fight room below
+9593|42047|6|You should check out the Keystone pickup above
+21786|35598|1|1
+21786|59513|0|20
+9593|25989|6|Hmmm... Did you complete the fight room in Howl's Den?
+21786|10413|6|Good luck with the mantis!
+21786|50255|6|I hope you didn't bash off the mantis to get here... You don't want to get in trouble with the Mantis Union.|f=300
+3|0|8|21786|47458|bool|true
+3|0|8|21786|40322|bool|true
+3|0|8|21786|2046|bool|true
+3|0|8|9593|20382|bool|true
+3|0|8|21786|40424|bool|true
+3|0|8|48248|51645|int|3
+3|0|8|937|54318|bool|true
+3|0|8|21786|50432|bool|true
+9|0=1|4|17|9|102|1|8|9593|61304|bool|true
+9|1=2|6|#Inkwater Marsh Keystone door opened!#
+9|1=2|8|21786|42309|bool|true
+9|150=0|4|17|14019|15983|0|4|17|6|401|True|4|24|-400|-4400|-375|-4420|8|14019|15983|int|1
+14019|15983=1|4|17|6|401|True|6|#Mokk TP#
+14019|15983=1|4|17|6|401|True|4|22|0|-385|-4413|Mokk
+3|1|4|18|14019|15983|0|4|22|0|-385|-4413|Mokk
+14019|15983=3|6|Thank you brave spirit! I stashed my belongings by #the big carved stone# going west, but the rain flooded it! If you can drain the water, I will let you keep *something* I found when exploring a bouncy place!|f=900
+0|100|6|#Closed Inkwater Marsh Keystone door#
+0|100|8|21786|42309|bool|false
+0|100|8|21|16825|bool|true
+0|100|5|-16|mute
+21786|63545|4|17|9|101|1|4|22|1|-239|-4440|Softlock prevention TP
+21786|53932|4|23|1
+9|2=2|6|#Howl's Den Keystone door opened!#
+9|2=2|8|21786|47445|bool|true
+21786|53932|4|17|9|101|1|0|100
+21786|55881|5|1|mute
+9593|25130=3|6|#Unlocked Howl's Den combat shrine#
+9593|25130=3|8|21786|6994|bool|true
+21786|23177|0|100
+9|150=0|4|17|9|107|False|4|24|-445|-4230|-420|-4240|8|9|107|bool|true
+9|107|6|#Bow Tree Checkpoint TP#
+9|107|4|22|2|-443|-4236|Checkpoint
+3|1|4|17|9|107|True|4|22|2|-443|-4236|Checkpoint
+3|20|4|17|0|97|1|8|9|0|int|5
+9|0=5|6|#Eyestone doors have closed!#\nReturn to the Bow Tree to open them again if needed.|f=180
+9|0=5|8|21786|50691|bool|true
+9|0=5|8|21786|41817|bool|true
+9|0=5|8|0|97|bool|false
+
+// Midnight Burrows
+9|0=1|4|17|9|101|0|8|24922|2524|bool|true
+9|0=1|4|17|9|101|0|8|24922|16603|bool|true
+3|0|8|24922|45740|bool|true
+3|0|8|14019|30671|bool|true
+24922|47244|4|17|9|101|0|6|*Glide* [<purple>Restricted to Midnight Burrows</>]
+24922|47244|4|17|9|101|0|2|14|mute
+24922|47244|4|17|9|101|1|8|9|3|int|+1
+24922|47244|4|17|9|101|1|6|Midnight Burrows Keystone (*$(9|3)*/*4*)|instant
+24922|34250|4|17|9|101|0|8|9|3|int|+1
+24922|34250|4|17|9|101|0|6|Midnight Burrows Keystone (*$(9|3)*/*4*)|instant
+24922|34250|4|17|9|101|1|6|*Glide* [<purple>Restricted to Midnight Burrows</>]
+24922|34250|4|17|9|101|1|2|14|mute
+24922|60358|8|9|3|int|+1
+24922|60358|6|Midnight Burrows Keystone (*$(9|3)*/*4*)|instant
+24922|46311|8|9|3|int|+1
+24922|46311|6|Midnight Burrows Keystone (*$(9|3)*/*4*)|instant
+24922|33535|8|9|3|int|+1
+24922|33535|6|Midnight Burrows Keystone (*$(9|3)*/*4*)|instant
+14019|52747|6|#Midnight Burrows entrance has opened#
+14019|52747|8|24922|13349|bool|true
+14019|52747|8|48248|18458|int|4
+9|3=4|6|#Midnight Burrows Keystone door opened!#
+9|3=4|8|18793|3171|bool|true
+
+// Kwolok's Hollow
+937|16163|8|4|93|float|+0.2
+937|16163|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+937|48192|4|17|9|102|0|1|2
+0|102|6|#Hornbug has finally calmed down#
+0|102|8|937|48534|int|4
+937|61744|6|You can get through the spikes with only Bash. Also, if you get lucky, the skeeto might roam into the spike room. This is #optional#! Good luck!|f=480
+937|37926|1|2
+937|50176|8|9|91|int|+1
+937|50176|6|Dash Fragment (*$(9|91)*/*5*)|instant
+937|13413|6|The door to Glades will @not@ open when you talk to Kwolok.
+937|45987|4|17|9|102|0|8|5|10|int|+10
+937|45987|4|17|9|102|0|8|5|11|float|+10
+937|45987|4|17|9|102|0|6|$Health Up$
+937|45987|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+937|45987|4|17|9|102|1|0|25
+58674|20983|4|17|9|102|0|6|Cheeky spirit... Fine. Have some $extra health$.
+58674|20983|4|17|9|102|0|8|5|10|int|+10
+58674|20983|4|17|9|102|0|8|5|11|float|+10
+58674|20983|4|17|9|102|1|6|Cheeky spirit... Fine. I'll give you <purple>a tip</>.
+58674|20983|4|17|9|102|1|6|To clear the Depths entrance you need to bash (in order) a spider shot, a different spider shot, the spider itself, the first spider shot again, and fake bash the exploding slug.|f=840
+58674|9583|1|1
+937|23772|1|2
+0|0|0|200
+0|0|6|This is a good place to ask: Have you considered what "*BitbAem*" could mean?|f=300
+937|30182|1|1
+13428|59730|6|#Mouldwood Depths door TP#
+13428|59730|4|22|3|139|-4300|Checkpoint TP
+23987|62973|6|#Mouldwood Depths door has opened#
+23987|62973|8|18793|25789|bool|true
+23987|62973|4|17|9|102|1|6|[<purple>Hitless</>] You are allowed to use #one# intentional $fake bash$ to enter Depths. This is the hardest mechanical trick in the plando.|f=420
+937|61897|6|Hornbug spilled <purple>its drink</> and is throwing a tantrum!
+937|2538|0|25
+937|8518|0|25
+937|2463|6|#The door behind the crushers has opened#
+937|2463|8|937|32165|bool|true
+23987|61017|6|<ls_0.6>*Lunch*\n<s_0.5>Delicious
+23987|61017|8|5|0|int|+50
+937|24175|0|12
+937|5568|0|50
+937|19529|0|0
+3|0|8|937|59850|bool|true
+3|0|8|937|48534|int|2
+3|0|8|937|10140|bool|true
+3|0|8|14019|48794|int|2
+3|0|8|937|10071|int|True
+3|0|8|18793|42980|bool|true
+3|0|8|46462|29054|bool|true
+3|0|8|46462|37897|bool|true
+3|0|8|46462|20780|bool|true
+3|0|8|44964|25545|int|2
+3|0|8|46462|59806|bool|true
+9|0=1|4|17|9|102|1|8|937|48192|bool|true
+937|42245=1|4|17|9|101|0|8|937|42245|int|True
+937|42245=1|4|17|9|101|0|8|937|22716|bool|true
+937|42245=1|4|17|9|102|0|8|5|10|int|+10
+937|42245=1|4|17|9|102|0|8|5|11|float|+10
+937|42245=1|4|17|9|102|0|6|$Health Up$
+937|42245=1|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+937|42245=1|4|17|9|102|1|0|25
+937|42245=2|4|17|9|102|0|8|5|10|int|+10
+937|42245=2|4|17|9|102|0|8|5|11|float|+10
+937|42245=2|4|17|9|102|0|6|$Health Up$
+937|42245=2|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+937|42245=2|4|17|9|102|1|0|25
+937|42245=2|4|17|9|101|1|4|17|9|102|1|6|Halfway there! The most difficult part is over!
+937|42245=2|4|17|9|101|1|8|937|22716|bool|true
+937|22419|0|100
+3|1|4|17|13428|59730|1|4|22|3|139|-4300|Checkpoint TP
+937|6778|8|937|6778|bool|false
+937|6778|6|#Door is broken and will not open :(#
+
+// Mouldwood Depths
+18793|15396|4|17|9|102|1|6|[<purple>Hitless</>] Incredible! Good job!
+18793|15396|6|#Depths Checkpoint TP - Entrance#
+18793|15396|4|22|4|211|-4391|Checkpoint
+3|1|4|17|18793|15396|1|4|22|4|211|-4391|Checkpoint
+18793|35351|6|Did you know? <hex_6bd170ff>Eyed Echoes<hex_ffffffff> prey on <hex_593e10ff>fireflies<hex_ffffffff>.|f=300
+18793|35351|6|Also, the breakable wall next to the Keystone is already broken.|f=300
+18793|58148|8|9|4|int|+1
+18793|58148|6|Upper Depths Keystone (*$(9|4)*/*2*)|instant
+18793|26618|4|8|305|-4426
+18793|1914|8|9|4|int|+1
+18793|1914|6|Upper Depths Keystone (*$(9|4)*/*2*)|instant
+18793|29979|6|#Lights on!#
+18793|29979|8|18793|26713|int|7
+18793|29979|8|14019|45931|int|2
+18793|23986|6|#Empty Lantern (Hand-to-hand)#
+18793|23986|8|14019|26318|int|6
+18793|42235|6|The Combat Shrine is now accepting challengers.
+18793|42235|8|18793|65202|bool|true
+18793|836|6|#Mouldwood Depths enemies CHANGED!#
+18793|836|8|14019|45931|int|3
+18793|18395|8|4|93|float|+0.2
+18793|18395|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+18793|31937|1|4
+18793|31937|3|8
+18793|2881|8|9|91|int|+1
+18793|2881|6|Dash Fragment (*$(9|91)*/*5*)|instant
+18793|62694|6|#Flash Tree TP#
+18793|62694|4|22|5|761|-4544|Flash Tree TP
+3|1|4|17|18793|62694|1|4|22|5|761|-4544|Flash Tree TP
+0|62|6|#The TP breakable wall is gone!#\nBut #Mora# wants the lights to be off.|f=300
+0|62|8|18793|13349|bool|true
+18793|23799|4|17|9|101|0|6|*Grapple* [<purple>Restricted to Lower Depths</>]
+18793|23799|4|17|9|101|1|6|*Grapple* [<purple>Restricted to the Spirit Surge shard room</>]
+23987|986|6|@Lights OFF@! #Mora# is @ready@.
+23987|986|8|18793|26713|int|0
+18793|19004|6|So brave! So spiky!
+18793|6573|6|Why is it so dark in here? Even the #Skeetos# will chase you around, only because you are bright.|f=420
+18793|53953|0|40
+14019|8192|6|Going to Mora early is unintended, but who am I to stop you?
+3|0|8|18793|21022|bool|true
+3|0|8|48248|37364|bool|true
+3|0|8|18793|15855|bool|true
+3|0|8|44964|28552|int|True
+3|0|8|14019|26318|int|5
+3|0|8|18793|63291|bool|true
+3|0|8|44964|28552|int|2
+3|0|8|18793|28175|bool|true
+9|0=1|4|17|9|101|0|8|18793|21994|bool|true
+3|1|4|17|18793|15396|1|4|22|4|211|-4391|Checkpoint TP
+9|4=2|6|#Upper Depths Keystone door opened!#
+9|4=2|8|21786|59990|bool|true
+14019|26318=7|6|#Mouldwood Silk (Hand-to-hand)#
+18793|26713=1|8|18793|26713|int|5
+18793|26713=1|4|2
+18793|26713=6|4|17|9|101|0|6|*Clean Water*
+18793|26713=6|4|17|9|101|0|8|6|2000|bool|true
+18793|26713=6|4|17|9|101|1|6|*Grapple* [<purple>Restricted to MillView ceiling</>]
+18793|26713=6|6|*Water Dash* [<purple>Restricted to Pools Approach from Marsh TP</>]
+18793|26713=6|8|9|108|bool|true
+18793|26713=6|8|18793|26713|int|7
+
+// Luma Pools
+945|10682|6|##Luma Pools Approach TP##
+945|10682|4|22|6|-1020|-4187|Pools Approach Wheel
+3|1|4|17|945|10682|1|4|22|6|-1020|-4187|Pools Approach Wheel
+5377|27204|1|1
+5377|19694|1|2
+23987|25996|6|#Water puzzle has been drained!#
+23987|25996|8|5377|63173|bool|true
+23987|25996|5|2|mute
+5377|12235|8|9|5|int|+1
+5377|12235|6|Luma Pools Keystone (*$(9|5)*/*4*)|instant
+14019|26318=8|6|#Spyglass# (Hand-to-hand)
+14019|26318=8|8|14019|26318|int|8
+14019|26318=8|6|The <purple>floor</> in Lupo's room has been broken!
+14019|26318=8|8|5377|8451|bool|true
+14019|28662|4|17|9|101|0|2|104
+14019|28662|4|17|9|101|0|6|You can go to #Kwolok# right away. Upper pools is optional in $Standard$.|f=420
+14019|28662|4|17|9|101|1|6|*Water Dash* [<purple>Restricted to this room</>]
+14019|28662|4|17|9|101|1|2|104|mute
+5377|25391|1|2
+5377|46926|6|*Water Dash* [<purple>Restricted to the pond by the KS door</>]
+5377|35091|8|9|2|int|+1
+5377|35091|6|Howl's Den Keystone (*$(9|2)*/*2*)|instant
+5377|35091|4|17|9|102|1|8|9|90|int|+1
+5377|35091|4|17|9|102|1|6|Launch Fragment (*$(9|90)*/*5*)|instant
+5377|16426|8|9|5|int|+1
+5377|16426|6|Luma Pools Keystone (*$(9|5)*/*4*)|instant
+5377|41881|6|Nothing here. I blame the slug.
+5377|31434|8|9|5|int|+1
+5377|31434|6|Luma Pools Keystone (*$(9|5)*/*4*)|instant
+5377|33110|4|17|9|102|0|8|5|10|int|+10
+5377|33110|4|17|9|102|0|8|5|11|float|+10
+5377|33110|4|17|9|102|0|6|$Health Up$
+5377|33110|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+5377|33110|4|17|9|102|1|0|25
+5377|628|8|9|5|int|+1
+5377|628|6|Luma Pools Keystone (*$(9|5)*/*4*)|instant
+0|104|4|17|9|101|1|2|104
+0|104|6|#Water Dash Tree TP#
+0|104|4|22|7|-1430|-4081|Water Dash Tree TP
+5377|32750|4|17|9|102|0|8|5|10|int|+10
+5377|32750|4|17|9|102|0|8|5|11|float|+10
+5377|32750|4|17|9|102|0|6|$Health Up$
+5377|32750|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+5377|32750|4|17|9|102|1|0|25
+5377|63201|8|4|93|float|+0.2
+5377|63201|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+945|21334|6|*Grapple* [<purple>Restricted to the Luma-Wellspring path</>]
+5377|13832|6|It's soggy time!
+5377|35440|6|Hmmm, if only a #kind moki# could break this floor for you...
+5377|18345|6|Peekaboo!
+5377|17396|0|12
+5377|44122|6|Break the wall to your right to spawn #Kwolok# for the escape|f=300
+5377|21860|6|Not this one, sorry
+5377|1600|6|There's a small handwritten note on the ground:\n\n<s_0.6>$None are as brave as I, Mokk the Brave!\nI am taking the blue cookie with me as proof!\nI am now leaving to explore the den of the$ #Howler#!$|f=900
+5377|52791|6|dash dash dash disappointment :(
+5377|7540|0|50
+945|58723|0|69
+3|0|8|945|37243|bool|true
+3|0|8|945|14530|bool|true
+3|0|8|5377|34852|bool|true
+3|0|8|5377|56302|bool|true
+3|0|8|5377|53480|int|3
+3|0|8|5377|45774|bool|true
+3|0|8|5377|63922|bool|true
+3|0|8|945|58403|int|6
+3|0|8|5377|62180|bool|true
+3|0|8|5377|65019|bool|true
+3|0|8|5377|6398|bool|true
+3|0|8|20120|43231|bool|true
+3|0|8|5377|35023|bool|true
+3|0|8|945|49747|bool|true
+945|43451|4|19|945|58403|7|6|This wall deems you #unworthy#
+945|43451|4|19|945|58403|7|8|945|43451|bool|false
+5377|14488|0|100
+5377|14488|6|As a reminder, @death warps are forbidden@ (Central TP shortcut)
+5377|4463|0|100
+9|5=4|6|#Luma Pools Keystone door opened!#
+9|5=4|8|5377|47621|bool|true
+3|1|4|17|0|104|1|4|22|7|-1430|-4081|Water Dash Tree TP
+5377|15402|6|It is possible to lock yourself out of some pickups. Think carefully.|f=300
+5377|3831|6|#Kwolok is ready to play tag!#
+5377|3831|8|945|58403|int|0
+945|58403=3|8|945|58403|int|7
+945|58403=7|6|#The wall blocking Wellspring access has disappeared!#
+945|58403=7|8|945|43451|bool|true
+945|58403=7|4|17|9|101|1|2|5
+945|58403=7|4|17|9|101|0|3|2
+
+// Wellspring
+53632|21124|6|#Glades Crossroads TP#
+53632|21124|4|22|8|-628|-4056|Glades Crossroads
+53632|21124|6|At this point you are free to roam through #Wellspring#, #Glades#, #Reach# and #Woods#. You need to visit all 4 to continue through #Woods#.|f=720
+3|1|4|17|53632|21124|1|4|22|8|-628|-4056|Glades Crossroads
+53632|62356|8|9|0|int|3
+53632|42264|8|4|93|float|+0.2
+53632|42264|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+53632|17403|1|2
+53632|51706|1|2
+37858|58286|4|17|9|102|0|8|5|10|int|+10
+37858|58286|4|17|9|102|0|8|5|11|float|+10
+37858|58286|4|17|9|102|0|6|$Health Up$
+37858|58286|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+37858|58286|4|17|9|102|1|0|25
+23987|12104|4|17|9|102|0|8|9|90|int|+1
+23987|12104|4|17|9|102|0|6|Launch Fragment (*$(9|90)*/*5*)|instant
+23987|12104|4|17|9|102|1|1|2
+0|57|8|9|91|int|+1
+0|57|6|Dash Fragment (*$(9|91)*/*5*)|instant
+0|57|6|#Wellspring Checkpoint TP#
+0|57|4|22|9|-1260|-3885|Checkpoint
+3|1|4|17|0|57|1|4|22|9|-1260|-3885|Checkpoint
+37858|57552|4|17|9|102|0|1|2
+37858|57552|4|17|9|102|1|8|9|90|int|+1
+37858|57552|4|17|9|102|1|6|Launch Fragment (*$(9|90)*/*5*)|instant
+37858|41911|6|#The one-way wall next to the drainable water has been broken#
+37858|41911|8|53632|9366|bool|true
+37858|25833|6|#The shortcut between doors is now open!#
+37858|25833|8|37858|34433|bool|true
+37858|22107|1|2
+23987|31426|6|<s_1.4>@Important@<s_1>\n1. Bait the #Gorlek Miner# on the vanilla path to Tokk's Compass.\n2. Get it to @walk off the left ledge@.\n3. @Bash it@ at any point before it walks onto water.|f=1200
+53632|41227|1|2
+37858|32932|1|1
+37858|56444|8|9|8|int|+1
+37858|56444|6|Required Progression Keystone (*$(9|8)*/*4*)|instant
+53632|6869|6|#Life Harvest Shard wall has been broken#
+53632|6869|8|53632|62781|bool|true
+23987|53934|6|Life Harvest? Dumb shard. Just don't get hit.|f=240
+53632|25556|6|#The wooden wall above you has been broken#
+53632|25556|8|53632|3382|bool|true
+53632|1911|0|90
+37858|31136|0|99
+37858|58846|0|50
+37858|58846|6|If you go back up with only Double Jump you get bonus boasting rights!|f=300
+37858|41380|6|I heard that the lizard below hates spirits... I wonder why?
+37858|33063|0|70
+37858|45906|0|60
+37858|45656|6|#Nearby wheels have started spinning!#
+37858|45656|8|37858|64055|bool|true
+37858|64086|8|37858|21874|bool|true
+37858|64086|0|51
+37858|52110|0|25
+37858|52110|4|17|9|102|1|4|8|-1195|-3806
+37858|47533|6|You will need #specific instructions# to proceed.
+37858|59022|6|Quick, run to the teleporter!!!
+14019|24142|6|You found a Scug!
+37858|2797|6|Did you get here with Dash, or did you bring a piranha from the pond?|f=300
+37858|2797|0|77
+3|0|8|37858|23644|bool|false
+3|0|8|37858|9487|bool|true
+3|0|8|37858|31962|bool|false
+3|0|8|44964|11512|int|2
+3|0|8|53632|6500|bool|true
+3|0|8|37858|12379|bool|true
+3|0|8|37858|10720|int|2
+937|34641=2|8|937|34641|int|4
+37858|8487=2|1|4
+37858|8487=2|3|34
+37858|8487=2|8|37858|8487|int|5
+37858|8487=2|4|8|-1248|-3808
+3|33|4|24|-1120|-3729|-1100|-3743|6|#Bashing in an unexpected location has opened the upper Wellspring door!#
+3|33|4|24|-1120|-3729|-1100|-3743|8|37858|31962|bool|true
+
+// Glades
+44310|36911|8|9|91|int|+1
+44310|36911|6|Dash Fragment (*$(9|91)*/*5*)|instant
+44310|9902|3|3
+937|11846|1|2
+937|6703|1|2
+937|17761|1|1
+14019|26318=9|6|#Grom's purple wall is broken!#
+14019|26318=9|8|42178|5815|bool|true
+42178|27110|6|#Some Moki huts have been built!#
+42178|27110|8|21|51230|bool|true
+42178|23125|6|#Blue seeds have been planted all over Glades!#
+42178|23125|8|42178|33011|bool|true
+42178|23125|8|42178|64583|bool|true
+42178|23125|8|42178|38393|bool|true
+42178|59623|6|*Glide* [<purple>Restricted to the Glades bonfire</>]
+44310|29043|6|#Some Moki huts have been built!#
+44310|29043|8|21|23607|bool|true
+23987|23015|6|#Thorns removed!#
+23987|23015|8|21|18751|bool|true
+42178|30206|6|#Glades beautified!#
+42178|30206|8|21|15068|bool|true
+42178|63404|6|#Lightcatchers planted!#
+42178|63404|8|42178|47651|bool|true
+42178|42762|6|#Glades bonfire stoked!#
+42178|42762|8|44310|47361|bool|true
+23987|14014|6|#Some Moki huts have been built!#
+23987|14014|8|21|40448|bool|true
+42178|6117|6|#A breakable floor has crumbled!#
+42178|6117|8|44310|55192|bool|true
+42178|13327|8|9|8|int|+1
+42178|13327|6|Required Progression Keystone (*$(9|8)*/*4*)|instant
+0|120|2|120
+42178|51468|6|#You found an entrance to a secret cave!#
+42178|51468|8|21|16586|bool|true
+937|45744|6|You saw some pretty fishes on the way :)\n$Full heal$|f=240
+937|45744|8|5|11|float|$(5|10)
+937|31036|6|It's a #cheeseball#! But the plant covered it in ooze... yuck
+937|40657|6|It's a #cheeseball#! But it's soggy... yuck
+53632|12019|6|1 Delicious #cheeseball#
+53632|12019|0|1|mute
+42178|37028|6|Did you really just flex how high you can jump? Poor moki...|f=240
+42178|9780|6|Fully rebuilding and regrowing Glades will give you one *Launch Fragment*!
+42178|57455|6|Sorry Mario, your princess is in another castle!
+42178|30520|6|Sorry Mario, your princess is in another castle!
+42178|52786|6|Sorry Mario, your princess is #still# in another castle!\nWhy did you check this pickup knowing that?
+42178|51934|4|17|9|102|0|6|@Health Down@
+42178|51934|4|17|9|102|0|8|5|10|int|-10
+42178|51934|4|2
+42178|51934|6|Your greed knows no bounds. You are a monster.|f=1200
+42178|51934|4|17|9|102|1|8|5|11|float|-220
+3|0|8|42178|18448|bool|true
+3|0|8|44310|17523|bool|true
+3|0|8|42178|50418|bool|true
+3|0|8|48248|55122|bool|true
+3|0|8|14019|33776|int|3
+3|0|8|14019|2782|bool|true
+14019|26394=2|6|#Glades plants are fully regrown!#
+14019|26394=2|4|17|14019|44578|1|8|9|90|int|+1
+14019|26394=2|4|17|14019|44578|1|6|Launch Fragment (*$(9|90)*/*5*)|instant
+14019|44578=2|6|#Glades is fully rebuilt!#
+14019|44578=2|4|17|14019|26394|1|8|9|90|int|+1
+14019|44578=2|4|17|14019|26394|1|6|Launch Fragment (*$(9|90)*/*5*)|instant
+6|500|6|#Silent Woods hut door has opened#
+6|500|8|14019|27804|int|2
+
+// Reach
+28895|58675|8|4|93|float|+0.2
+28895|58675|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+28895|38143|6|*Flap* [<purple>Restricted to the furnace beneath the TP</>]
+28895|47529|6|#The ice wall blocking the Teleporter has melted!#
+28895|47529|8|28895|8934|bool|true
+28895|54373|6|*Flap* [<purple>Restricted to the cold Moki's campfire</>]
+28895|1053|8|9|6|int|+1
+28895|1053|6|Baur's Reach Keystone (*$(9|6)*/*4*)|instant
+28895|50368|8|9|6|int|+1
+28895|50368|6|Baur's Reach Keystone (*$(9|6)*/*4*)|instant
+28895|23795|8|9|6|int|+1
+28895|23795|6|Baur's Reach Keystone (*$(9|6)*/*4*)|instant
+28895|22382|4|17|9|102|0|8|5|10|int|+10
+28895|22382|4|17|9|102|0|8|5|11|float|+10
+28895|22382|4|17|9|102|0|6|$Health Up$
+28895|22382|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+28895|22382|4|17|9|102|1|0|25
+28895|40089|6|*Glide* [<purple>Restricted to the Lower Reach lantern updraft</>]
+28895|40242|8|9|6|int|+1
+28895|40242|6|Baur's Reach Keystone (*$(9|6)*/*4*)|instant
+0|51|4|17|9|101|0|2|14
+0|51|4|17|9|101|1|6|*Glide* [<purple>Restricted to the Reach-Glades spike cave</>]
+28895|7597|4|17|9|102|0|8|5|10|int|+10
+28895|7597|4|17|9|102|0|8|5|11|float|+10
+28895|7597|4|17|9|102|0|6|$Health Up$
+28895|7597|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+28895|7597|4|17|9|102|1|0|25
+28895|37444|6|*Glide* [<purple>Restricted to the ice cavern past the snowball</>]
+28895|46711|6|*Glide* [<purple>Restricted to the upper spikes on the escape updraft</>]
+28895|53283|1|2
+28895|24533|6|You found a comfy blanket!
+28895|45337|6|This region is a lot more complicated than it might seem. I suggest taking it slow.|f=360
+28895|4301|6|You should know that soup projectiles can be used to #light up lanterns#. This ice wall you just melted is the only wall that reacts to soup.|f=600
+28895|38049|6|Just in case: You are @NOT@ supposed to bring the soup projectile to the upper furnace.|f=360
+28895|36231|0|98
+42178|40609|6|Lighting up the TP lantern will give you an extra *Launch Fragment* for your effort, but it is completely optional.|f=360
+28895|35045|0|44
+28895|9949|0|80
+28895|2129|6|Aren't you glad I removed the ice? Oh wait...
+14019|32376|6|Why are you stealing from Tuley?
+14019|32376|0|1
+28895|29898|6|Not here, sorry.
+28895|18358|6|You need to access the Reach escape from Glades, as the snowball blocks your path.|f=300
+28895|10823|0|24
+23987|36359|6|You will be warped to Mount Horu escape shortly, please hold on...|f=240
+3|0|8|28895|3777|bool|true
+3|0|8|28895|45066|bool|true
+3|0|8|28287|32414|bool|true
+3|0|8|23987|19630|bool|true
+3|0|8|28895|25522|bool|true
+3|0|8|28895|40744|bool|true
+3|0|8|23987|897|bool|true
+3|0|8|28895|29098|int|2
+3|0|8|28895|30794|bool|true
+3|0|8|28895|52440|bool|true
+3|0|8|28895|42209|bool|true
+3|0|8|28895|37287|bool|true
+3|0|8|28895|38120|bool|true
+3|0|8|28895|7616|bool|true
+3|0|8|28895|39291|bool|true
+3|0|8|28895|58337|bool|true
+28895|55384|6|#The furnace above Baur has been lit, fam#
+28895|55384|8|28895|43977|bool|true
+28895|30566|0|100
+28895|59955|4|17|28895|61789|0|6|#Stoking the powerful campfire seems to have melted the ice on Upper Reach!#
+28895|59955|4|17|28895|61789|0|8|28895|61789|bool|true
+28895|59955|8|28895|52440|bool|true
+28895|48757|8|9|90|int|+1
+28895|48757|6|Launch Fragment (*$(9|90)*/*5*)|instant
+9|6=4|6|#Baur's Reach Keystone door opened!#
+9|6=4|8|28895|49900|bool|true
+28895|46404|6|#Avalanche Escape TP#
+28895|46404|4|22|10|-53|-3753|Avalanche Escape TP
+3|1|4|17|28895|46404|1|4|22|10|-53|-3753|Avalanche Escape TP
+9|150=0|4|17|9|109|0|4|24|-622|-3875|-590|-3963|8|9|109|bool|true
+9|109|8|9|8|int|+1
+9|109|6|Required Progression Keystone (*$(9|8)*/*4*)|instant
+
+// Silent Woods
+58674|28710|1|2
+58674|8487|8|9|7|int|+1
+58674|8487|6|Silent Woods Keystone (*$(9|7)*/*2*)|instant
+58674|40073|8|9|91|int|+1
+58674|40073|6|Dash Fragment (*$(9|91)*/*5*)|instant
+58674|11736|8|9|7|int|+1
+58674|11736|6|Silent Woods Keystone (*$(9|7)*/*2*)|instant
+58674|780|6|#The yellow wall above has been broken#
+58674|780|8|58674|54686|bool|true
+58674|42158|4|17|9|101|0|6|Congratulations on making it this far! You are awesome!|f=240
+58674|42158|6|*Flap* [<purple>Restricted to the lower half of Silent Woods</>]
+58674|26274|1|2
+58674|19769|8|4|93|float|+0.2
+58674|19769|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+58674|42531|8|9|8|int|+1
+58674|42531|6|Required Progression Keystone (*$(9|8)*/*4*)|instant
+58674|43033|6|#Required Progression Keystone Door TP#
+58674|43033|4|22|11|944|-4137|Required Progression Door
+3|1|4|17|58674|43033|1|4|22|11|944|-4137|Required Progression Door
+58674|30908|6|At this point you are expected to have *Dash*. Every region before this door has $one fragment$.|f=360
+58674|64057|6|*Extra Double Jump* [<purple>Restricted to the updraft past the skull</>]
+58674|59714|1|2
+58674|20713|1|2
+23987|25183|8|9|90|int|+1
+23987|25183|6|Launch Fragment (*$(9|90)*/*5*)|instant
+58674|29265|1|4
+58674|29265|3|44
+58674|32647|5|9
+58674|32647|6|No I won't make you go through Woods again ;)|f=300
+36153|3013|1|2
+0|8|6|#Willow's End Miniboss TP#
+0|8|4|22|14|360|-3740|Willow's End Miniboss
+3|1|4|17|0|8|1|4|22|14|360|-3740|Willow's End Miniboss
+58674|59691|0|90
+58674|33893|0|36
+58674|23186|0|75
+58674|17974|6|What the dog doin'
+58674|54516|6|Sometimes the way forward is not intuitive. It can circle your head and annoy you to no end before you discover it.|f=480
+3|0|8|58674|37037|bool|true
+3|0|8|58674|46980|bool|true
+3|0|8|58674|58268|bool|true
+3|0|8|58674|22056|bool|true
+3|0|8|58674|44798|int|True
+3|0|8|58674|10877|bool|true
+3|0|8|58674|5285|bool|true
+3|0|8|58674|9239|bool|true
+3|0|8|58674|14539|bool|true
+3|0|8|58674|20143|bool|true
+3|0|8|58674|61252|bool|true
+3|0|8|58674|10677|bool|true
+3|0|8|58674|32369|bool|true
+3|0|8|58674|36965|bool|true
+3|0|8|58674|7636|bool|true
+3|0|8|44964|22703|int|2
+3|0|8|14019|34504|int|4
+3|0|8|58674|22472|bool|true
+3|0|8|58674|64484|bool|true
+3|0|8|36153|12077|bool|true
+3|0|8|36153|36521|bool|true
+14019|27804=2|8|58674|14313|bool|true
+14019|27804=3|6|Petrified Doll
+9|7=2|6|#Silent Woods Keystone door opened!#
+9|7=2|8|58674|21500|bool|true
+48248|37606|6|<s_2>IT. FUCKEN. WIMDY!!!
+9|8=4|6|#Required Progression Keystone door opened!#
+9|8=4|8|18793|41544|bool|true
+58674|902|0|100
+36153|23584|6|Well... This is it! You are almost there! Only one last challenge to overcome!|f=80
+
+// Windswept Wastes
+20120|62264|4|17|9|102|0|8|5|10|int|+10
+20120|62264|4|17|9|102|0|8|5|11|float|+10
+20120|62264|4|17|9|102|0|6|$Health Up$
+20120|62264|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+20120|62264|4|17|9|102|1|0|25
+20120|12941|4|17|9|102|1|6|[<purple>Hitless</>] Did you plan ahead, or are you teleporting away?|f=300
+20120|12941|8|4|93|float|+0.2
+20120|12941|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
+0|101|6|This was a decoy!
+20120|224|6|#The #Giant Sand Sifter# has been angered!#
+20120|224|8|10289|19890|int|2
+14019|26318=10|6|*Burrow* [<purple>Restricted to Lower Wastes</>]
+7228|54494|8|9|9|int|+1
+7228|54494|6|Windswept Wastes Keystone (*$(9|9)*/*2*)|instant
+20120|50026|6|#The <purple>ore wall</> near the East TP has been broken!#
+20120|50026|8|26019|1274|bool|true
+20120|59046|4|17|9|102|0|8|5|10|int|+10
+20120|59046|4|17|9|102|0|8|5|11|float|+10
+20120|59046|4|17|9|102|0|6|$Health Up$
+20120|59046|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+20120|59046|4|17|9|102|1|0|25
+20120|40245|6|*Burrow* [<purple>Restricted until the Keystone Door</>]
+23987|48605|8|9|9|int|+1
+23987|48605|6|Windswept Wastes Keystone (*$(9|9)*/*2*)|instant
+7228|20282|4|17|9|101|0|You are almost there! Don't give up!
+7228|20282|4|17|9|101|1|2|14
+7228|20282|4|17|9|101|1|8|9|0|int|3
+20120|22354|6|*Burrow* [<purple>Restricted to Upper Wastes</>]
+20120|52812|6|#Opened the sand door!#
+20120|52812|8|20120|12902|bool|true
+20120|18965|6|#Upper Wastes Checkpoint TP#
+20120|18965|4|22|13|2027|-3843|Checkpoint
+3|1|4|17|20120|18965|1|4|22|13|2027|-3843|Checkpoint
+7228|48993|4|17|9|102|0|8|5|10|int|+10
+7228|48993|4|17|9|102|0|8|5|11|float|+10
+7228|48993|4|17|9|102|0|6|$Health Up$
+7228|48993|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
+7228|48993|4|17|9|102|1|0|25
+7228|61548|1|1
+14019|20601|2|101
+7228|8370|1|2
+10289|22102|8|9|90|int|+1
+10289|22102|6|Launch Fragment (*$(9|90)*/*5*)|instant
+7228|52086|0|1
+20120|46919|0|2
+20120|10397|0|3
+23987|50364|0|4
+20120|57133|6|1 Motivational Cheeseball\n<s_0.6>There is a $friendly spike$ to the left|f=300
+20120|19113|6|Oh dear... You've rolled the 0.0001 percent chance to @completely reset the plando@. You were so far along too...|f=420
+7228|56821|6|The enemies have very cool official names, but nobody uses them. The sand worms are called #Sand Sifters#|f=300
+20120|11785|6|You are nearing the end of the plando. I hope you don't hate me too much by now.|f=240
+20120|57781|6|Did you ever figure out what *BitbAem!* means?|f=240
+20120|8910|6|I am placing this pickup on the 23rd of December, 2025. I hope I can finish the plando by new year's eve :)|f=420
+20120|33275|6|If *Bash* allows enemies to be used as platforms, and *Bash* allows moving enemies, then you can overcome any obstacle with *Bash* alone.\n-pizza, day 1 of this plando|f=600
+20120|48829|6|At this point in time, I am wondering if the start of the plando is too rough and the end is too easy|f=360
+20120|17798|6|I regret not using shops more, but I didn't know what to place there!
+7228|35329|6|This cheeseball is coated with sand... yuck
+7228|62117|0|68
+20120|30740|0|70
+20120|2013|6|You should check the burrow pickup instead (left)|f=240
+7228|54275|6|You should check the spikes pickup instead (right)|f=240
+3|0|8|20120|55196|bool|true
+3|0|8|14019|58342|bool|true
+3|0|8|44964|30767|int|2
+3|0|8|10289|44555|bool|true
+20120|48009|0|100
+20120|48009|6|#Windswept Wastes lever TP#
+20120|48009|4|22|12|1865|-3930|Checkpoint
+9|9>=2|6|#Windswept Wastes Keystone Door opened!#
+9|9>=2|8|20120|28786|bool|true
+20120|33775|6|Sorry, we're closed!
+20120|33775|8|20120|33775|bool|false
+
+// Willows End
+3|0|8|16155|42976|bool|true
+3|0|8|16155|3588|bool|true
+3|0|8|16155|41488|bool|true
+3|0|8|16155|65277|bool|true
+3|0|8|16155|60752|bool|true
+3|0|8|16155|54940|bool|true
+3|0|8|16155|24290|bool|true
+3|0|8|16155|3096|bool|true
+3|0|8|16155|49381|bool|true
+3|0|8|16155|46270|bool|true
+3|0|8|16155|55446|bool|true
+3|0|8|16155|38979|bool|true
+3|0|8|36153|23902|bool|true
+3|0|8|36153|3662|bool|true
+3|0|8|16155|9230|bool|true
+16155|28478|6|*All abilities unlocked!*\n<s_0.5>You still need to earn *Launch* yourself...|f=50
+16155|28478|2|5|mute
+16155|28478|2|14|mute
+16155|28478|2|51|mute
+16155|28478|2|57|mute
+16155|28478|2|62|mute
+16155|28478|2|74|mute
+16155|28478|2|77|mute
+16155|28478|2|97|mute
+16155|28478|2|98|mute
+16155|28478|2|100|mute
+16155|28478|2|106|mute
+16155|28478|2|115|mute
+16155|28478|2|116|mute
+16155|28478|2|118|mute
+
+// Ability trackers
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|23987|9864|1|4|24|-343|-4370|-200|-4420|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|24922|47244|1|4|17|9|101|0|4|24|-920|-4500|-580|-4640|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|24922|47244|1|4|17|9|101|0|4|24|-970|-4550|-880|-4590|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|24922|34250|1|4|17|9|101|1|4|24|-920|-4500|-580|-4640|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|24922|34250|1|4|17|9|101|1|4|24|-970|-4550|-880|-4590|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|42178|59623|1|4|24|-230|-4115|-225|-4160|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|28895|40089|1|4|24|-225|-3990|-200|-4060|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|0|51|1|4|17|9|101|0|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|0|51|1|4|17|9|101|1|4|24|-40|-4060|0|-4078|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|0|51|1|4|17|9|101|1|4|24|-103|-4015|90|-4065|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|0|51|1|4|17|9|101|1|4|24|60|-3990|90|-4065|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|28895|37444|1|4|17|9|101|1|4|24|-140|-3944|25|-4015|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|28895|46711|1|4|17|9|101|1|4|24|60|-3885|110|-3919|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|7228|20282|1|4|17|9|101|1|8|9|100|bool|true
+9|150=0|4|17|24|14|1|4|17|9|100|0|2|-14
+9|150=0|4|17|24|14|0|4|17|9|100|1|6|*Glide* [Restricted]
+9|150=0|4|17|24|14|0|4|17|9|100|1|2|14|mute
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|24922|32076|1|4|24|-1050|-4430|-945|-4480|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|21786|10295|1|4|17|9|101|1|4|24|-510|-4112|-430|-4621|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|9593|26457|1|4|24|-795|-4155|-765|-4186|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|9593|59344|1|4|17|9|101|0|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|14019|35087|1|4|17|9|101|1|8|9|100|bool|true
+9|150=0|4|17|24|5|1|4|17|9|100|0|2|-5
+9|150=0|4|17|24|5|0|4|17|9|100|1|6|*Double Jump* [Restricted]
+9|150=0|4|17|24|5|0|4|17|9|100|1|2|5|mute
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|0|62|1|4|17|9|101|0|4|24|190|-4490|810|-4600|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|0|62|1|4|17|9|101|1|4|24|558|-4564|626|-4600|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|9|108|1|4|17|9|101|1|4|24|-700|-4200|-530|-4250|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|945|21334|1|4|24|-930|-4130|-800|-4166|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|945|21334|1|4|24|-845|-4092|-785|-4133|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|16155|28478|1|8|9|100|bool|true
+9|150=0|4|17|24|57|1|4|17|9|100|0|2|-57
+9|150=0|4|17|24|57|0|4|17|9|100|1|6|*Grapple* [Restricted]
+9|150=0|4|17|24|57|0|4|17|9|100|1|2|57|mute
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|9|108|1|4|24|-1125|-4180|-1000|-4330|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|14019|28662|1|4|24|-1535|-4130|-1480|-4185|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|5377|46926|1|4|24|-1540|-4090|-1500|-4100|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|14019|28662|1|4|17|9|101|0|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|0|104|1|4|17|9|101|1|8|9|100|bool|true
+9|150=0|4|17|24|104|1|4|17|9|100|0|2|-104
+9|150=0|4|17|24|104|0|4|17|9|100|1|6|*Water Dash* [Restricted]
+9|150=0|4|17|24|104|0|4|17|9|100|1|2|104|mute
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|28895|38143|1|4|24|-335|-4016|-295|-4042|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|28895|54373|1|4|24|-250|-3975|-225|-3992|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|58674|42158|1|4|24|400|-4087|1080|-4230|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|16155|28478|1|8|9|100|bool|true
+9|150=0|4|17|24|118|1|4|17|9|100|0|2|-118
+9|150=0|4|17|24|118|0|4|17|9|100|1|6|*Flap* [Restricted]
+9|150=0|4|17|24|118|0|4|17|9|100|1|2|118|mute
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|58674|64057|1|4|24|-1050|-4430|-945|-4480|8|9|100|bool|true
+9|150=0|4|17|4|35|1|4|17|9|100|0|8|4|35|byte|0
+9|150=0|4|17|4|35|1|4|17|9|100|0|6|@Removed@ Extra Double Jump
+9|150=0|4|17|4|35|0|4|17|9|100|1|6|*Extra Double Jump* [Restricted]
+9|150=0|4|17|4|35|0|4|17|9|100|1|8|4|35|byte|1
+9|150=0|8|9|100|bool|false
+9|150=0|4|17|9|100|0|4|17|14019|26318|1|4|24|1470|-3866|1885|-4050|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|14019|26318|1|4|24|1885|-3885|1930|-4050|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|20120|40245|1|4|24|1800|-3750|1936|-3890|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|20120|22354|1|4|24|1900|-3680|2075|-3850|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|14019|20601|1|8|9|100|bool|true
+9|150=0|4|17|24|101|1|4|17|9|100|0|2|-101
+9|150=0|4|17|24|101|0|4|17|9|100|1|6|*Burrow* [Restricted]
+9|150=0|4|17|24|101|0|4|17|9|100|1|2|101|mute
+9|150=0|8|9|100|bool|false
+8246|17772=1000|4|19|4|37|10|8|9|0|int|6
+9|0=6|8|8246|17772|int|0
+9|0=6|4|19|4|37|10|8|4|37|byte|+1
+9|0=6|4|19|4|37|10|6|You have bashed $(4|37)000 times!\nBash will heal you #$(4|37)0%# of a health cell.
+9|0=6|4|17|4|37|10|6|You have bashed $(4|37)000 times!!!\nBash will heal you #a full health cell#.\n\nThis is the last upgrade.
+9|0=6|4|17|4|37|10|8|8246|17772|int|10000
+
+// Settings
+9|0|8|9|0|int|0
+timer: 9|104|9|150
+3|0|8|9|104|bool|true
+9|150>=1|8|9|150|float|0
+9|102|8|5|11|float|1
+9|102|8|5|10|int|1
+3|0|8|48248|16489|bool|true
+3|0|8|7|18|bool|true
+3|0|8|7|19|bool|true
+3|0|8|7|21|bool|true
+3|0|8|7|17|bool|true
+3|0|8|7|14|bool|true
+3|0|8|7|9|bool|true
+3|0|8|7|10|bool|true
+3|0|8|7|20|bool|true
+3|0|8|7|15|bool|true
+3|0|8|7|13|bool|true
+3|0|8|7|16|bool|true
+3|0|8|7|22|bool|true
+3|20|8|5|11|float|230
+3|20|8|5|13|float|23
+3|0|2|23|mute
+3|0|8|48248|18767|bool|true
+3|0|8|48248|45538|bool|true
+3|0|8|48248|29604|bool|true
+3|0|8|48248|9750|bool|true
+3|0|8|48248|3638|bool|true
+3|0|8|48248|1557|bool|true
+3|0|8|48248|48423|bool|true
+3|0|8|48248|61819|bool|true
+3|0|8|48248|37481|bool|true
+3|0|8|48248|1590|bool|true
+3|0|8|48248|54647|bool|true
+3|0|8|48248|47517|bool|true
+3|0|8|48248|4045|bool|true
+3|0|8|48248|61146|bool|true
+3|0|8|48248|14995|bool|true
+3|0|8|11666|4220|bool|true
+3|0|8|21786|26462|bool|true
+3|0|8|21786|51018|bool|true
+3|0|8|48248|37364|bool|true
+3|0|8|945|9367|bool|true
+3|0|8|14019|50597|int|4
+3|0|8|14019|35087|int|3
+3|0|8|37858|25031|bool|true
+3|0|8|48248|3846|bool|true
+3|0|8|937|34641|int|1
+3|0|8|14019|20667|int|3
+3|0|8|48248|40451|bool|true
+3|0|8|14019|8973|int|4
+9|90>=5|2|8
+9|91>=5|2|102
+3|0|8|4|37|byte|0
+3|33|8|5|11|float|+$(4|37)
+3|0|8|4|93|float|0
+3|33|8|5|13|float|+$(4|93)
