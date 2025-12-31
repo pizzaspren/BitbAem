@@ -261,13 +261,13 @@ timer: 9|105|9|151
 3|2|4|17|9|103|0|6|You chose to play in #STANDARD MODE#.\nInitializing...|instant
 3|2|4|17|9|103|0|8|9|103|bool|true
 3|3|4|17|9|103|0|8|9|101|bool|true
-3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\nYou don't have to impress anyone. Good luck!\nInitializing...|instant
+3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\n\nYou don't have to impress anyone. Good luck!\n\nInitializing...|instant
 3|3|4|17|9|103|0|2|62|mute
 3|3|4|17|9|103|0|2|-62|mute
 3|3|4|17|9|103|0|8|9|103|bool|true
 3|4|4|17|9|103|0|8|9|101|bool|true
 3|4|4|17|9|103|0|8|9|102|bool|true
-3|4|4|17|9|103|0|6|You chose to play in <purple>HITLESS MODE</>.\nYou must be insane! I like you!\n\nInitializing...|instant
+3|4|4|17|9|103|0|6|You chose to play in <purple>HITLESS MODE</>.\n\nYou must be insane! I like you!\n\nInitializing...|instant
 3|4|4|17|9|103|0|2|115|mute
 3|4|4|17|9|103|0|2|-115|mute
 3|4|4|17|9|103|0|8|9|103|bool|true
@@ -468,6 +468,7 @@ timer: 9|105|9|151
 23987|61017|8|5|0|int|+50
 937|5568|0|50
 937|19529|0|0
+937|10729|6|You came all the way here just for me? Awww you shouldn't have|f=300
 3|0|8|937|59850|bool|true
 3|0|8|937|48534|int|2
 3|0|8|937|10140|bool|true
@@ -649,7 +650,7 @@ timer: 9|105|9|151
 5377|3831|8|945|58403|int|0
 945|58403=3|8|945|58403|int|7
 945|58403=3|6|#The wall blocking Wellspring access has disappeared!#
-945|58403=3|8|945|43451|bool|true
+945|58403=3|8|945|55795|bool|true
 945|58403=3|4|17|9|101|1|2|5
 945|58403=3|4|17|9|101|0|3|2
 
