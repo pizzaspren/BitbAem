@@ -108,8 +108,8 @@
 9|0=4|4|17|5377|63173|1|4|17|5377|8451|0|6|Hand to hand...
 9|0=4|4|17|5377|8451|1|4|17|9|101|0|4|17|14019|28662|0|6|Find permanent Water Dash...
 9|0=4|4|17|5377|8451|1|4|17|9|101|1|4|17|0|104|0|6|Find permanent Water Dash...
-9|0=4|4|17|9|101|0|4|17|14019|28662|1|4|19|945|58403|4|6|Kwolok...
-9|0=4|4|17|9|101|1|4|17|0|104|1|4|19|945|58403|4|6|Kwolok...
+9|0=4|4|17|9|101|0|4|17|14019|28662|1|4|19|14019|35087|4|6|Kwolok...
+9|0=4|4|17|9|101|1|4|17|0|104|1|4|19|14019|35087|4|6|Kwolok...
 9|0=4|4|17|14019|35087|4|4|17|53632|21124|0|6|Luma-Wellspring path...
 9|0=4|4|17|9|8|4|4|17|0|101|0|6|Burrow tree...
 9|0=4|4|17|0|101|1|4|17|14019|20601|0|6|Find *Burrow* in Windswept Wastes...
@@ -261,7 +261,7 @@ timer: 9|105|9|151
 3|2|4|17|9|103|0|6|You chose to play in #STANDARD MODE#.\nInitializing...|instant
 3|2|4|17|9|103|0|8|9|103|bool|true
 3|3|4|17|9|103|0|8|9|101|bool|true
-3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\nYou don't have to impress anyone. Good luck!\Initializing...|instant
+3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\nYou don't have to impress anyone. Good luck!\nInitializing...|instant
 3|3|4|17|9|103|0|2|62|mute
 3|3|4|17|9|103|0|2|-62|mute
 3|3|4|17|9|103|0|8|9|103|bool|true
@@ -293,7 +293,7 @@ timer: 9|105|9|151
 21786|61706|1|2
 21786|28908|6|#Drained the water in Regen Tree#
 21786|28908|8|6|402|bool|true
-21786|43668|6|You MUST make your way down.
+21786|43668|6|All combat shrines have rewards!
 21786|22068|8|9|91|int|+1
 21786|22068|6|Dash Fragment (*$(9|91)*/*5*)|instant
 0|100|6|*Rain lifted*
@@ -327,12 +327,11 @@ timer: 9|105|9|151
 21786|18109|3|43
 9593|59344|4|17|9|101|0|2|5
 9593|59344|4|17|9|101|1|6|I am sorry, this trick is not fun :(|f=300
-9593|59344|4|17|9|101|1|4|17|9|102|1|6|[<purple>Hitless</>] Seek a nearby light. #Opher# can help.|f=300
+9593|59344|4|17|9|101|1|4|17|9|102|1|6|[<purple>Hitless</>] Seek a nearby light. It can assist you.|f=300
 0|97|6|#The doors protecting the $Eyestones$ have opened#.\nTeleporting away will close them.\nYou can revisit this tree at any point.|f=480
 0|97|8|21786|50691|bool|true
 0|97|8|21786|41817|bool|true
 21786|10295|4|17|9|101|1|6|*Double Jump* [<purple>Restricted to the Bow Tree surroundings</>]
-21786|10295|4|17|9|101|1|6|This used to be an UltraGrapple trick :(
 21786|10295|4|17|9|101|0|6|You found the *hidden blue cookie*! Delicious.
 21786|27433|4|17|21786|37225|1|6|#Kwolok Statue has opened!#
 21786|27433|4|17|21786|37225|1|8|937|64003|bool|true
@@ -359,7 +358,7 @@ timer: 9|105|9|151
 21786|59513|0|20
 9593|25989|6|Hmmm... Did you complete the fight room in Howl's Den?
 21786|10413|6|Good luck with the mantis!
-21786|50255|6|I hope you didn't bash off the mantis to get here... You don't want to get in trouble with the Mantis Union.|f=300
+21786|50255|6|The Mantis Union will be filing a complaint about unapproved bashing.|f=300
 3|0|8|21786|47458|bool|true
 3|0|8|21786|40322|bool|true
 3|0|8|21786|2046|bool|true
@@ -374,15 +373,14 @@ timer: 9|105|9|151
 9|0=1|4|17|9|102|1|8|9593|61304|bool|true
 9|1=2|6|#Inkwater Marsh Keystone door opened!#
 9|1=2|8|21786|42309|bool|true
-9|150=0|4|17|14019|15983|0|4|17|6|401|True|4|24|-400|-4400|-375|-4420|8|14019|15983|int|1
+14019|15983=1|4|17|6|401|False|8|14019|15983|int|0
+14019|15983=1|4|17|6|401|False|6|If you ever make it back here when the rain is lifted, talking to Mokk will give you a TP|f=480
 14019|15983=1|4|17|6|401|True|6|#Mokk TP#
 14019|15983=1|4|17|6|401|True|4|22|0|-385|-4413|Mokk
 3|1|4|18|14019|15983|0|4|22|0|-385|-4413|Mokk
-14019|15983=3|6|Thank you brave spirit! I stashed my belongings by #the big carved stone# going west, but the rain flooded it! If you can drain the water, I will let you keep *something* I found when exploring a bouncy place!|f=900
+14019|15983=3|6|Thank you brave spirit! I heard that there is *something interesting* on the flooded tree to the west!|f=600
 0|100|6|#Closed Inkwater Marsh Keystone door#
 0|100|8|21786|42309|bool|false
-0|100|8|21|16825|bool|true
-0|100|5|-16|mute
 21786|63545|4|17|9|101|1|4|22|1|-239|-4440|Softlock prevention TP
 21786|53932|4|23|1
 9|2=2|6|#Howl's Den Keystone door opened!#
@@ -392,6 +390,8 @@ timer: 9|105|9|151
 9593|25130=3|6|#Unlocked Howl's Den combat shrine#
 9593|25130=3|8|21786|6994|bool|true
 21786|23177|0|100
+21786|23177|6|#Inkwater Marsh TP#
+21786|23177|8|21|16825|bool|true
 9|150=0|4|17|9|107|False|4|24|-445|-4230|-420|-4240|8|9|107|bool|true
 9|107|6|#Bow Tree Checkpoint TP#
 9|107|4|22|2|-443|-4236|Checkpoint
@@ -401,6 +401,7 @@ timer: 9|105|9|151
 9|0=5|8|21786|50691|bool|true
 9|0=5|8|21786|41817|bool|true
 9|0=5|8|0|97|bool|false
+9|150=0|4|24|-530|-4225|-521|-4230|4|2
 
 // Midnight Burrows
 9|0=1|4|17|9|101|0|8|24922|2524|bool|true
@@ -562,7 +563,7 @@ timer: 9|105|9|151
 18793|26713=6|8|18793|26713|int|7
 
 // Luma Pools
-945|10682|6|##Luma Pools Approach TP##
+945|10682|6|#Luma Pools Approach TP#
 945|10682|4|22|6|-1020|-4187|Pools Approach Wheel
 3|1|4|17|945|10682|1|4|22|6|-1020|-4187|Pools Approach Wheel
 5377|27204|1|1
@@ -635,8 +636,8 @@ timer: 9|105|9|151
 3|0|8|945|49747|bool|true
 3|0|8|5377|33180|bool|true
 3|0|8|44964|54686|int|2
-945|43451|4|19|945|58403|7|6|This wall deems you #unworthy#
-945|43451|4|19|945|58403|7|8|945|43451|bool|false
+945|55795|4|19|945|58403|7|6|This wall deems you #unworthy#
+945|55795|4|19|945|58403|7|8|945|55795|bool|false
 5377|14488|0|100
 5377|14488|6|As a reminder, @death warps are forbidden@ (Central TP shortcut)
 5377|4463|0|100
@@ -647,10 +648,10 @@ timer: 9|105|9|151
 5377|3831|6|#Kwolok is ready to play tag!#
 5377|3831|8|945|58403|int|0
 945|58403=3|8|945|58403|int|7
-945|58403=7|6|#The wall blocking Wellspring access has disappeared!#
-945|58403=7|8|945|43451|bool|true
-945|58403=7|4|17|9|101|1|2|5
-945|58403=7|4|17|9|101|0|3|2
+945|58403=3|6|#The wall blocking Wellspring access has disappeared!#
+945|58403=3|8|945|43451|bool|true
+945|58403=3|4|17|9|101|1|2|5
+945|58403=3|4|17|9|101|0|3|2
 
 // Wellspring
 53632|21124|6|#Glades Crossroads TP#
@@ -1081,7 +1082,7 @@ timer: 9|105|9|151
 9|150=0|4|17|24|14|0|4|17|9|100|1|2|14|mute
 9|150=0|8|9|100|bool|false
 9|150=0|4|17|9|100|0|4|17|24922|32076|1|4|24|-1050|-4430|-945|-4480|8|9|100|bool|true
-9|150=0|4|17|9|100|0|4|17|21786|10295|1|4|17|9|101|1|4|24|-510|-4112|-430|-4621|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|21786|10295|1|4|17|9|101|1|4|24|-475|-4183|-430|-4275|8|9|100|bool|true
 9|150=0|4|17|9|100|0|4|17|9593|26457|1|4|24|-795|-4155|-765|-4186|8|9|100|bool|true
 9|150=0|4|17|9|100|0|4|17|9593|59344|1|4|17|9|101|0|8|9|100|bool|true
 9|150=0|4|17|9|100|0|4|17|945|58403|7|4|17|9|101|1|8|9|100|bool|true
