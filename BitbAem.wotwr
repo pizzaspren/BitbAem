@@ -8,8 +8,8 @@
 3|1|16|1|0|0|Read me!
 3|1|16|2|0|0|spell:2018
 3|1|16|4|0|0|0|8|9|0|int|2
-9|0=2|4|17|9|101|0|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Grenade Zoomies, Hammer Jumps, Pause Floats, QtM to warp or clip into terrain, Sentry Jumps, Wavedashes (Dash/Blaze+Regen)|f=900|instant
-9|0=2|4|17|9|101|1|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n5. Hard mode is very hard. You are more than welcome to ask for help :oriHug:\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Grenade Zoomies, Hammer Jumps, Pause Floats, QtM to warp or clip into terrain, Sentry Jumps, Wavedashes (Dash/Blaze+Regen)|f=900|instant
+9|0=2|4|17|9|101|0|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Pause Floats, QtM to warp or clip into terrain, Wavedashes (Dash + Blaze/Regen)|f=900|instant
+9|0=2|4|17|9|101|1|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n5. Hard mode is very hard. You are more than welcome to ask for help :oriHug:\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Pause Floats, QtM to warp or clip into terrain, Wavedashes (Dash + Blaze/Regen)|f=900|instant
 3|1|16|0|0|1|Hall of Fame
 3|1|16|1|0|1|Fastest times for different categories
 3|1|16|2|0|1|shard:12
@@ -43,7 +43,7 @@
 3|1|16|0|1|0|Exploration
 3|1|16|1|1|0|Difficult tricks and rewards
 3|1|16|2|1|0|lupo:1
-3|1|16|4|1|0|0|6|This plando has an intended route to follow. Correctly progressing the intended route awards #100# Spirit Light. To incentivize exploration, you will get different rewards based on the difficulty of optional tricks.\n\n1. <purple>Gorlek Ore</> -> Difficult optional pickup.\n2. Launch Fragment -> The hardest pickup in each area.|f=480|instant
+3|1|16|4|1|0|0|6|This plando has an intended route to follow. Correctly progressing the intended route awards #100 SL#. To incentivize exploration, you will get different rewards based on the difficulty of optional tricks.\n\n1. <purple>Gorlek Ore</> -> Difficult optional pickup.\n2. *Launch Fragment* -> The hardest pickup in each area.\n\nIf you see a pickup on the map, it #can# be reached on your first visit to the area. The only exceptions to this rule are pickups hard-locked by skills (e.g. Clean Water, Burrow)|f=720|instant
 3|1|16|0|1|1|Region-locked abilities
 3|1|16|1|1|1|Making the game less fun since 2025
 3|1|16|2|1|1|lupo:2
@@ -111,12 +111,20 @@
 9|0=4|4|17|9|101|0|4|17|14019|28662|1|4|19|945|58403|4|6|Kwolok...
 9|0=4|4|17|9|101|1|4|17|0|104|1|4|19|945|58403|4|6|Kwolok...
 9|0=4|4|17|14019|35087|4|4|17|53632|21124|0|6|Luma-Wellspring path...
-9|0=4|4|17|53632|21124|1|4|19|9|8|4|6|Required Progression Keystones $(9|8)/4\nOne in each: Wellspring, Baur's Reach, Glades, Silent Woods
 9|0=4|4|17|9|8|4|4|17|0|101|0|6|Burrow tree...
 9|0=4|4|17|0|101|1|4|17|14019|20601|0|6|Find *Burrow* in Windswept Wastes...
 9|0=4|4|17|14019|20601|1|4|17|0|8|0|6|Launch tree...
 9|0=4|4|17|0|8|1|4|17|16155|28478|0|6|Willow miniboss...
 9|0=4|4|17|16155|28478|1|6|Why are you asking for help? Shriek is @RIGHT THERE@!
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|6|Required Progression Keystones *$(9|8)*/*4*
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|37858|56444|1|6|$Wellspring$
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|37858|56444|0|6|Wellspring
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|9|109|1|6|$Baur's Reach$
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|9|109|0|6|Baur's Reach
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|42178|13327|1|6|$Glades$
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|42178|13327|0|6|Glades
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|58674|42531|1|6|$Silent Woods$
+9|0=4|4|17|53632|21124|1|4|19|9|8|4|4|17|58674|42531|0|6|Silent Woods
 
 // Shops
 3|1|17|1|2|2|Gorlek Ore
@@ -178,6 +186,12 @@
 3|1|17|3|1|1115|true
 3|1|17|3|1|23|true
 3|1|17|3|1|105|true
+3|1|17|3|17|33011|true
+3|1|17|3|17|40006|true
+3|1|17|3|17|64583|true
+3|1|17|3|17|16254|true
+3|1|17|3|17|47651|true
+3|1|17|3|17|38393|true
 3|1|17|1|15|57987|#The Last Seed#
 3|1|17|2|15|57987|Plants the Ancient Tree in Glades\n<s_0.6>Extortion? What do you mean?
 3|1|17|0|15|57987|tuley:5
@@ -185,6 +199,8 @@
 15|57987|8|9|0|int|201
 9|0=201|6|#Ancient Tree has been planted!#
 9|0=201|8|42178|40006|int|3
+9|0=201|8|21|40006|bool|true
+9|0=201|8|9|10|int|+1
 3|1|17|3|15|19396|true
 3|1|17|3|15|41666|true
 3|1|17|1|17|16825|Launch Fragment Hint
@@ -238,20 +254,20 @@ timer: 9|105|9|151
 9|151>=10|8|9|151|float|0
 3|0|8|9|151|float|8
 3|0|8|9|105|bool|true
-3|0|4|8|-3219|-5935.4 // Why is this scene unloaded on spawn :(
-9|150=0|4|17|9|103|0|4|8|-3219|-5935.4
+3|0|4|8|-3219|-5935.8 // Why is this scene unloaded on spawn :(
+9|150=0|4|17|9|103|0|4|8|-3219|-5935.8
 9|151=0|4|17|9|103|0|6|<s_1.3>Welcome to *BitbAem*!<s_1>\n\nThis plando offers two difficulty modes. The difference between these modes is the difficulty of tricks for the #intended progression path#. Optional objectives and pickups will always assume you are in HARD mode.\n\n$Standard mode$ = Roughly Kii-Unsafe difficulty.\n@Hard mode@ = Unsafe+ difficulty.\n<purple>Hitless mode</> = Hard mode on 1HP.\n\nWhich difficulty would you like to play with?\n<ls_0.32>_____________                     ___________                     _____________\n<ls_0.22>|                            |                   |                       |                   |                            |\n<ls_0.22>  $Standard$                                @Hard@                                   <purple>Hitless</>   <hex_00000000>.<hex_ffffffff>\n<ls_0>|                            |                   |                       |                   |                            |\n<ls_0>_____________                     ___________                     _____________\n<ls_1>   Alt+1                                   Alt+2                                    Alt+3   <hex_00000000>.<hex_ffffffff>\n<ls_-20><hex_00000000>.\n.|f=600|instant|quiet
 3|2|4|17|9|103|0|8|9|101|bool|false
 3|2|4|17|9|103|0|6|You chose to play in #STANDARD MODE#.\nInitializing...|instant
 3|2|4|17|9|103|0|8|9|103|bool|true
 3|3|4|17|9|103|0|8|9|101|bool|true
-3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\nInitializing...|instant
+3|3|4|17|9|103|0|6|You chose to play in @HARD MODE@.\nYou don't have to impress anyone. Good luck!\Initializing...|instant
 3|3|4|17|9|103|0|2|62|mute
 3|3|4|17|9|103|0|2|-62|mute
 3|3|4|17|9|103|0|8|9|103|bool|true
 3|4|4|17|9|103|0|8|9|101|bool|true
 3|4|4|17|9|103|0|8|9|102|bool|true
-3|4|4|17|9|103|0|6|You chose to play in <purple>HITLESS MODE</>.\nInitializing...|instant
+3|4|4|17|9|103|0|6|You chose to play in <purple>HITLESS MODE</>.\nYou must be insane! I like you!\n\nInitializing...|instant
 3|4|4|17|9|103|0|2|115|mute
 3|4|4|17|9|103|0|2|-115|mute
 3|4|4|17|9|103|0|8|9|103|bool|true
@@ -324,9 +340,11 @@ timer: 9|105|9|151
 21786|37225|4|17|21786|27433|1|6|#Kwolok Statue has opened!#
 21786|37225|4|17|21786|27433|1|8|937|64003|bool|true
 21786|37225|4|17|21786|27433|0|6|#The Kwolok Statue rumbles in approval#
-9593|26457|6|*Double Jump* [<purple>Restricted to the spike tunnel on the left</>]
-945|10833|6|*Clean Water*
-945|10833|8|6|2000|bool|true
+9593|26457|4|17|9|101|0|6|Why are you here? This area is intended for hard mode :)
+9593|26457|4|17|9|101|1|6|*Double Jump* [<purple>Restricted to the spike tunnel on the left</>]
+945|10833|4|17|9|101|0|1|2
+945|10833|4|17|9|101|1|6|*Clean Water*
+945|10833|4|17|9|101|1|8|6|2000|bool|true
 21786|23154|0|30
 9593|5929|0|1
 23987|59173|8|4|93|float|+0.2
@@ -352,6 +370,7 @@ timer: 9|105|9|151
 3|0|8|21786|50432|bool|true
 3|0|8|21786|25761|bool|true
 3|0|8|23987|50415|bool|true
+3|0|8|44964|45951|int|2
 9|0=1|4|17|9|102|1|8|9593|61304|bool|true
 9|1=2|6|#Inkwater Marsh Keystone door opened!#
 9|1=2|8|21786|42309|bool|true
@@ -446,7 +465,6 @@ timer: 9|105|9|151
 937|2463|8|937|32165|bool|true
 23987|61017|6|<ls_0.6>*Lunch*\n<s_0.5>Delicious
 23987|61017|8|5|0|int|+50
-937|24175|0|12
 937|5568|0|50
 937|19529|0|0
 3|0|8|937|59850|bool|true
@@ -460,6 +478,7 @@ timer: 9|105|9|151
 3|0|8|46462|20780|bool|true
 3|0|8|44964|25545|int|2
 3|0|8|46462|59806|bool|true
+3|0|8|937|24175|bool|true
 9|0=1|4|17|9|102|1|8|937|48192|bool|true
 937|42245=1|4|17|9|101|0|8|937|42245|int|True
 937|42245=1|4|17|9|101|0|8|937|22716|bool|true
@@ -478,7 +497,7 @@ timer: 9|105|9|151
 937|22419|0|100
 3|1|4|17|13428|59730|1|4|22|3|139|-4300|Checkpoint TP
 937|6778|8|937|6778|bool|false
-937|6778|6|#Door is broken and will not open :(#
+937|6778|6|#This cutscene will play every time. Sorry :(#
 
 // Mouldwood Depths
 18793|15396|4|17|9|102|1|6|[<purple>Hitless</>] Incredible! Good job!
@@ -596,6 +615,7 @@ timer: 9|105|9|151
 5377|17396|0|12
 5377|44122|6|Break the wall to your right to spawn #Kwolok# for the escape|f=300
 5377|21860|6|Not this one, sorry
+5377|1600|6|There's a small handwritten note on the ground:\n\n<s_0.6>$None are as brave as I, Mokk the Brave!\nI am taking the blue cookie with me as proof!\nI am now leaving to explore the den of the$ #Howler#!$|f=900
 5377|52791|6|dash dash dash disappointment :(
 5377|7540|0|50
 945|58723|0|69
@@ -614,7 +634,7 @@ timer: 9|105|9|151
 3|0|8|5377|35023|bool|true
 3|0|8|945|49747|bool|true
 3|0|8|5377|33180|bool|true
-3|0|8|5377|1600|bool|true
+3|0|8|44964|54686|int|2
 945|43451|4|19|945|58403|7|6|This wall deems you #unworthy#
 945|43451|4|19|945|58403|7|8|945|43451|bool|false
 5377|14488|0|100
@@ -717,23 +737,34 @@ timer: 9|105|9|151
 14019|26318=9|8|42178|5815|bool|true
 42178|27110|6|#Some Moki huts have been built!#
 42178|27110|8|21|51230|bool|true
+42178|27110|8|9|10|int|+1
 42178|23125|6|#Blue seeds have been planted all over Glades!#
 42178|23125|8|42178|33011|int|3
+42178|23125|8|21|33011|bool|true
 42178|23125|8|42178|64583|int|3
+42178|23125|8|21|64583|bool|true
 42178|23125|8|42178|38393|int|3
+42178|23125|8|21|38393|bool|true
+42178|23125|8|9|10|int|+1
 42178|59623|6|*Glide* [<purple>Restricted to the Glades bonfire</>]
 44310|29043|6|#Some Moki huts have been built!#
 44310|29043|8|21|23607|bool|true
-23987|23015|6|#Thorns removed!#
-23987|23015|8|21|18751|bool|true
+44310|29043|8|9|10|int|+1
+23987|14014|6|#Thorns removed!#
+23987|14014|8|21|18751|bool|true
+23987|14014|8|9|10|int|+1
 42178|30206|6|#Glades beautified!#
 42178|30206|8|21|15068|bool|true
+42178|30206|8|9|10|int|+1
 42178|63404|6|#Lightcatchers planted!#
 42178|63404|8|42178|47651|int|3
+42178|63404|8|21|47651|bool|true
+42178|63404|8|9|10|int|+1
 42178|42762|6|#Glades bonfire stoked!#
 42178|42762|8|44310|47361|bool|true
-23987|14014|6|#Some Moki huts have been built!#
-23987|14014|8|21|40448|bool|true
+23987|23015|6|#Some Moki huts have been built!#
+23987|23015|8|21|40448|bool|true
+23987|23015|8|9|10|int|+1
 42178|6117|6|#A breakable floor has crumbled!#
 42178|6117|8|44310|55192|bool|true
 42178|13327|8|9|8|int|+1
@@ -741,6 +772,7 @@ timer: 9|105|9|151
 0|120|2|120
 42178|51468|6|#You found an entrance to a secret cave!#
 42178|51468|8|21|16586|bool|true
+42178|51468|8|9|10|int|+1
 937|45744|6|You saw some pretty fishes on the way :)\n$Full heal$|f=240
 937|45744|8|5|11|float|$(5|10)
 937|31036|6|It's a #cheeseball#! But the plant covered it in ooze... yuck
@@ -763,16 +795,15 @@ timer: 9|105|9|151
 3|0|8|48248|55122|bool|true
 3|0|8|14019|33776|int|3
 3|0|8|14019|2782|bool|true
-14019|26394=2|6|#Glades plants are fully regrown!#
-14019|26394=2|4|17|14019|44578|1|8|9|90|int|+1
-14019|26394=2|4|17|14019|44578|1|6|Launch Fragment (*$(9|90)*/*5*)|instant
-14019|44578=2|6|#Glades is fully rebuilt!#
-14019|44578=2|4|17|14019|26394|1|8|9|90|int|+1
-14019|44578=2|4|17|14019|26394|1|6|Launch Fragment (*$(9|90)*/*5*)|instant
+9|10=9|6|Glades has been fully reconstructed!
+9|10=9|8|9|90|int|+1
+9|10=9|6|Launch Fragment (*$(9|90)*/*5*)|instant
 6|500|6|#Silent Woods hut door has opened#
 6|500|8|14019|27804|int|2
 
 // Reach
+28895|24533|8|9|91|int|+1
+28895|24533|6|Dash Fragment (*$(9|91)*/*5*)|instant
 28895|58675|8|4|93|float|+0.2
 28895|58675|6|#Bash Dynamo x$(4|93)#\n<s_0.6>Restores energy on Bash
 28895|38143|6|*Flap* [<purple>Restricted to the furnace beneath the TP</>]
@@ -800,10 +831,11 @@ timer: 9|105|9|151
 28895|7597|4|17|9|102|0|6|$Health Up$
 28895|7597|4|17|9|102|1|6|Extra health, but you're playing <purple>hitless</>! :)
 28895|7597|4|17|9|102|1|0|25
-28895|37444|6|*Glide* [<purple>Restricted to the ice cavern past the snowball</>]
-28895|46711|6|*Glide* [<purple>Restricted to the upper spikes on the escape updraft</>]
+28895|37444|4|17|9|101|0|0|25
+28895|37444|4|17|9|101|1|6|*Glide* [<purple>Restricted to the ice cavern past the snowball</>]
+28895|46711|4|17|9|101|0|6|Mint-flavored Doritos
+28895|46711|4|17|9|101|1|6|*Glide* [<purple>Restricted to the upper spikes on the escape updraft</>]
 28895|53283|1|2
-28895|24533|6|You found a comfy blanket!
 28895|45337|6|This region is a lot more complicated than it might seem. I suggest taking it slow.|f=360
 28895|4301|6|You should know that soup projectiles can be used to #light up lanterns#. This ice wall you just melted is the only wall that reacts to soup.|f=600
 28895|38049|6|Just in case: You are @NOT@ supposed to bring the soup projectile to the upper furnace.|f=360
@@ -874,6 +906,7 @@ timer: 9|105|9|151
 58674|30908|6|At this point you are expected to have *Dash*. Every region before this door has $one fragment$.|f=360
 58674|64057|6|*Extra Double Jump* [<purple>Restricted to the updraft past the skull</>]
 58674|59714|1|2
+58674|59714|4|0
 58674|20713|1|2
 23987|25183|8|9|90|int|+1
 23987|25183|6|Launch Fragment (*$(9|90)*/*5*)|instant
@@ -919,7 +952,7 @@ timer: 9|105|9|151
 9|8=4|6|#Required Progression Keystone door opened!#
 9|8=4|8|18793|41544|bool|true
 58674|902|0|100
-36153|23584|6|Well... This is it! You are almost there! Only one last challenge to overcome!|f=80
+36153|23584|6|Well... This is it! You are almost there! Only one last challenge to overcome!|f=480
 
 // Windswept Wastes
 20120|62264|4|17|9|102|0|8|5|10|int|+10
@@ -1011,7 +1044,7 @@ timer: 9|105|9|151
 3|0|8|36153|23902|bool|true
 3|0|8|36153|3662|bool|true
 3|0|8|16155|9230|bool|true
-16155|28478|6|*All abilities unlocked!*\n<s_0.5>You still need to earn *Launch* yourself...|f=50
+16155|28478|6|*All abilities unlocked!*\n<s_0.5>You still need to earn *Launch* yourself...|f=300
 16155|28478|2|5|mute
 16155|28478|2|14|mute
 16155|28478|2|51|mute
@@ -1083,7 +1116,7 @@ timer: 9|105|9|151
 9|150=0|4|17|24|118|0|4|17|9|100|1|6|*Flap* [Restricted]
 9|150=0|4|17|24|118|0|4|17|9|100|1|2|118|mute
 9|150=0|8|9|100|bool|false
-9|150=0|4|17|9|100|0|4|17|58674|64057|1|4|24|-1050|-4430|-945|-4480|8|9|100|bool|true
+9|150=0|4|17|9|100|0|4|17|58674|64057|1|4|24|1050|-4430|945|-4480|8|9|100|bool|true
 9|150=0|4|17|4|35|1|4|17|9|100|0|8|4|35|byte|0
 9|150=0|4|17|4|35|1|4|17|9|100|0|6|@Removed@ Extra Double Jump
 9|150=0|4|17|4|35|0|4|17|9|100|1|6|*Extra Double Jump* [Restricted]
