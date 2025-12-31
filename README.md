@@ -2,7 +2,7 @@
 
 A high-difficulty challenge centered around Bash.
 
-**[Download latest zip](https://github.com/pizzaspren/BitbAem/releases/download/v4-1.0.0/BitbAem.zip)**
+**[Download latest v4 zip](https://github.com/pizzaspren/BitbAem/releases/download/v4-1.0.0/BitbAem.zip)**
 
 ## v4 Disclaimer
 
@@ -15,7 +15,7 @@ This is the original version of **BitbAem!**, made for the v4 Randomizer. If you
 The file *BitbAem_DEMO.wotwr* is a short version of the plando that mirrors the hard mode mechanics for the first area. You can try it out before the main plando if you are unsure about the difficulty of hard mode.
 
 - **Difficulty**: Unsafe
-- **Time estimate** 1 hour
+- **Time estimate**: 1 hour
 
 ----
 # Difficulty selection
