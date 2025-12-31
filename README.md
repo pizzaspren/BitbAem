@@ -2,7 +2,7 @@
 
 A high-difficulty challenge centered around Bash.
 
-**[Download latest v4 zip](https://github.com/pizzaspren/BitbAem/releases/download/v4-1.0.0/BitbAem.zip)**
+**[Download latest v4 zip](https://github.com/pizzaspren/BitbAem/releases/download/v4-release/BitbAem.zip)**
 
 ## v4 Disclaimer
 
