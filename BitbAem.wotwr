@@ -8,8 +8,8 @@
 3|1|16|1|0|0|Read me!
 3|1|16|2|0|0|spell:2018
 3|1|16|4|0|0|0|8|9|0|int|2
-9|0=2|4|17|9|101|0|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Pause Floats, QtM to warp or clip into terrain, Wavedashes (Dash + Blaze/Regen)|f=900|instant
-9|0=2|4|17|9|101|1|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for both Ori and abilities.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n5. Hard mode is very hard. You are more than welcome to ask for help :oriHug:\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Fake Bash, Fake Burrow, Godmode, Pause Floats, QtM to warp or clip into terrain, Wavedashes (Dash + Blaze/Regen)|f=900|instant
+9|0=2|4|17|9|101|0|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for Ori, abilities nor enemies.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Enemies through walls/ground,Fake Bash, Fake Burrow, Godmode, Pause Floats, QtM to warp or clip into terrain, Speedup/down jank, Wheel spam, Wavedashes (Dash + Blaze/Regen)|f=900|instant
+9|0=2|4|17|9|101|1|6|<s_1.3>Rules for *BitbAem*!<s_1>\n\n1. @No Out of Bounds@ for Ori, abilities nor enemies.\n2. @No glitches@ (See below). Anything not in the list is OK.\n3. @Debug controls are banned@. $Debug renderer and zoom are allowed$.\n4. DBoosting is NEVER REQUIRED for progression. This plando #can be completed hitless#.\n5. Hard mode is very hard. You are more than welcome to ask for help :oriHug:\n\n<s_1.3>Banned glitches (ongoing list)<s_1>\nAbility Swaps, Backup misuse, Buy Anywhere, Cutscene lifts, Death Warps, Dive Launch, Enemies through walls/ground,Fake Bash, Fake Burrow, Godmode, Pause Floats, QtM to warp or clip into terrain, Speedup/down jank, Wheel spam, Wavedashes (Dash + Blaze/Regen)|f=900|instant
 3|1|16|0|0|1|Hall of Fame
 3|1|16|1|0|1|Fastest times for different categories
 3|1|16|2|0|1|shard:12
@@ -17,15 +17,15 @@
 3|1|16|0|2|0|First recorded completions
 3|1|16|1|2|0|Press to see
 3|1|16|2|2|0|shard:24
-3|1|16|4|2|0|0|6|$Standard$: Empty - 00h 00m 00s\n@Hard@: Empty - 00h 00m 00s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
+3|1|16|4|2|0|0|6|$Standard$: <hex_ff8c00ff>zre<hex_ffffffff> - 04h 00m 56s\n@Hard@: Empty - 00h 00m 00s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
 3|1|16|0|2|1|Fastest recorded completions
 3|1|16|1|2|1|Press to see
 3|1|16|2|2|1|spell:4000
-3|1|16|4|2|1|0|6|$Standard$: Empty - 00h 00m 00s\n@Hard@: Empty - 00h 00m 00s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
+3|1|16|4|2|1|0|6|$Standard$: <hex_ff8c00ff>zre<hex_ffffffff> - 04h 00m 56s\n@Hard@: Empty - 00h 00m 00s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
 3|1|16|0|2|2|Top 10 fastest *Launch* pickups
 3|1|16|1|2|2|Press to see
 3|1|16|2|2|2|spell:2019
-3|1|16|4|2|2|0|6|1. Empty - 00h 00m 00s - $Standard$
+3|1|16|4|2|2|0|6|1. <hex_ff8c00ff>zre<hex_ffffffff - 03h 50m 05s - $Standard$
 3|1|16|0|2|3|Least hitless deaths
 3|1|16|1|2|3|Press to see
 3|1|16|2|2|3|shard:13
@@ -506,8 +506,8 @@ timer: 9|105|9|151
 18793|15396|6|#Depths Checkpoint TP - Entrance#
 18793|15396|4|22|4|211|-4391|Checkpoint
 3|1|4|17|18793|15396|1|4|22|4|211|-4391|Checkpoint
-18793|35351|6|Did you know? <hex_6bd170ff>Eyed Echoes<hex_ffffffff> prey on <hex_593e10ff>fireflies<hex_ffffffff>.|f=300
-18793|35351|6|Also, the breakable wall next to the Keystone is already broken.|f=300
+18793|35351|6|Did you know? <hex_6bd170ff>Eyed Echoes<hex_ffffffff> prey on #fireflies#.|f=300
+18793|35351|6|Also, the closest breakable wall is gone.|f=300
 18793|58148|8|9|4|int|+1
 18793|58148|6|Upper Depths Keystone (*$(9|4)*/*2*)|instant
 18793|26618|4|8|305|-4426
@@ -518,7 +518,7 @@ timer: 9|105|9|151
 18793|29979|8|14019|45931|int|2
 18793|23986|6|#Empty Lantern (Hand-to-hand)#
 18793|23986|8|14019|26318|int|6
-18793|42235|6|The Combat Shrine is now accepting challengers.
+18793|42235|6|The Combat Shrine breakable wall has crumbled
 18793|42235|8|18793|65202|bool|true
 18793|836|6|#Mouldwood Depths enemies CHANGED!#
 18793|836|8|14019|45931|int|3
@@ -649,6 +649,7 @@ timer: 9|105|9|151
 5377|3831|6|#Kwolok is ready to play tag!#
 5377|3831|8|945|58403|int|0
 945|58403=3|8|945|58403|int|7
+945|58403=3|8|14019|35087|int|4
 945|58403=3|6|#The wall blocking Wellspring access has disappeared!#
 945|58403=3|8|945|55795|bool|true
 945|58403=3|4|17|9|101|1|2|5
@@ -721,6 +722,8 @@ timer: 9|105|9|151
 3|0|8|37858|12379|bool|true
 3|0|8|37858|10720|int|2
 937|34641=2|8|937|34641|int|4
+37858|23644|8|37858|23644|bool|false
+37858|23644|6|No.
 37858|8487=2|1|4
 37858|8487=2|3|34
 37858|8487=2|8|37858|8487|int|5
