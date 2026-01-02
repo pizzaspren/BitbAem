@@ -2,6 +2,8 @@
 // Slug: BitbAem!
 // Config: {"worldSettings":[{"spawn":"MarshSpawn.Main","difficulty":"Unsafe","hard":false,"randomizeDoors":false,"goals":[],"headers":[],"headerConfig":[],"inlineHeaders":[]}],"disableLogicFilter":true,"online":false,"createGame":"None"}
     
+// Alt-4 fixes
+3|5|8|9|150|float|0
 
 // Wheels
 3|1|16|0|0|0|@RULES@
@@ -506,6 +508,7 @@ timer: 9|105|9|151
 3|1|4|17|18793|15396|1|4|22|4|211|-4391|Checkpoint
 18793|35351|6|Did you know? <hex_6bd170ff>Eyed Echoes<hex_ffffffff> prey on #fireflies#.|f=300
 18793|35351|6|Also, the closest breakable wall is gone.|f=300
+18793|35351|4|22|4|211|-4391|Checkpoint
 18793|58148|8|9|4|int|+1
 18793|58148|6|Upper Depths Keystone (*$(9|4)*/*2*)|instant
 18793|26618|4|8|305|-4426
@@ -551,6 +554,7 @@ timer: 9|105|9|151
 3|1|4|17|18793|15396|1|4|22|4|211|-4391|Checkpoint TP
 9|4=2|6|#Upper Depths Keystone door opened!#
 9|4=2|8|21786|59990|bool|true
+9|4=2|4|22|4|211|-4391|Checkpoint
 14019|26318=7|6|#Mouldwood Silk# (Hand-to-hand)
 18793|26713=1|8|18793|26713|int|5
 18793|26713=1|4|2
@@ -1155,7 +1159,6 @@ timer: 9|105|9|151
 timer: 9|104|9|150
 3|0|8|9|104|bool|true
 3|1|8|9|150|float|0
-3|5|8|9|150|float|0
 9|150>=1|8|9|150|float|0
 9|102|8|5|11|float|1
 9|102|8|5|10|int|1
