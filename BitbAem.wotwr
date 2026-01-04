@@ -400,8 +400,8 @@ timer: 9|105|9|151
 3|1|4|17|9|107|True|4|22|2|-443|-4236|Checkpoint
 3|20|4|17|0|97|1|8|9|0|int|5
 9|0=5|6|#Eyestone doors have closed!#\nReturn to the Bow Tree to open them again if needed.|f=180
-9|0=5|8|21786|50691|bool|true
-9|0=5|8|21786|41817|bool|true
+9|0=5|8|21786|50691|bool|false
+9|0=5|8|21786|41817|bool|false
 9|0=5|8|0|97|bool|false
 9|150=0|4|24|-530|-4225|-521|-4230|4|0
 
@@ -460,7 +460,7 @@ timer: 9|105|9|151
 13428|59730|4|22|3|139|-4300|Checkpoint TP
 23987|62973|6|#Mouldwood Depths door has opened#
 23987|62973|8|18793|25789|bool|true
-23987|62973|4|17|9|102|1|6|[<purple>Hitless</>] You are allowed to use #one# intentional $fake bash$ to enter Depths. This is the hardest mechanical trick in the plando.|f=420
+23987|62973|4|17|9|102|1|6|[<purple>Hitless</>] You are allowed to use #1# intentional $fake bash$ to enter Depths. This is the hardest mechanical trick in the plando.|f=420
 937|61897|6|Hornbug spilled <purple>its drink</> and is throwing a tantrum!
 937|2538|0|25
 937|8518|0|25
@@ -484,7 +484,7 @@ timer: 9|105|9|151
 3|0|8|46462|59806|bool|true
 3|0|8|937|24175|bool|true
 9|0=1|4|17|9|102|1|8|937|48192|bool|true
-937|42245=1|4|17|9|101|0|8|937|42245|int|True
+937|42245=1|4|17|9|101|0|8|937|42245|int|2
 937|42245=1|4|17|9|101|0|8|937|22716|bool|true
 937|42245=1|4|17|9|102|0|8|5|10|int|+10
 937|42245=1|4|17|9|102|0|8|5|11|float|+10
@@ -500,6 +500,8 @@ timer: 9|105|9|151
 937|42245=2|4|17|9|101|1|8|937|22716|bool|true
 937|22419|0|100
 3|1|4|17|13428|59730|1|4|22|3|139|-4300|Checkpoint TP
+58674|11400|4|19|945|58403|7|6|This wall won't break until #Kwolok# allows it
+58674|11400|4|19|945|58403|7|8|58674|11400|bool|false
 
 // Mouldwood Depths
 18793|15396|4|17|9|102|1|6|[<purple>Hitless</>] Incredible! Good job!
@@ -639,7 +641,7 @@ timer: 9|105|9|151
 3|0|8|945|49747|bool|true
 3|0|8|5377|33180|bool|true
 3|0|8|44964|54686|int|2
-945|55795|4|19|945|58403|7|6|This wall deems you #unworthy#
+945|55795|4|19|945|58403|7|6|This wall won't break until #Kwolok# allows it
 945|55795|4|19|945|58403|7|8|945|55795|bool|false
 5377|14488|0|100
 5377|14488|6|As a reminder, @death warps are forbidden@ (Central TP shortcut)
@@ -652,8 +654,9 @@ timer: 9|105|9|151
 5377|3831|8|945|58403|int|0
 945|58403=3|8|945|58403|int|7
 945|58403=3|8|14019|35087|int|4
-945|58403=3|6|#The wall blocking Wellspring access has disappeared!#
+945|58403=3|6|#The walls blocking #Wellspring# and #Silent Woods# have disappeared!#
 945|58403=3|8|945|55795|bool|true
+945|58403=3|8|58674|11400|bool|true
 945|58403=3|4|17|9|101|1|2|5
 945|58403=3|4|17|9|101|0|3|2
 
@@ -724,6 +727,7 @@ timer: 9|105|9|151
 3|0|8|53632|6500|bool|true
 3|0|8|37858|12379|bool|true
 3|0|8|37858|10720|int|2
+3|0|8|37858|52129|bool|true
 937|34641=2|8|937|34641|int|4
 37858|23644|8|37858|23644|bool|false
 37858|23644|6|No.
@@ -957,13 +961,17 @@ timer: 9|105|9|151
 3|0|8|36153|12077|bool|true
 3|0|8|36153|36521|bool|true
 14019|27804=2|8|58674|14313|bool|true
-14019|27804=3|6|Petrified Doll
+14019|27804=3|6|#Petrified Doll# (Family Reunion)
 9|7=2|6|#Silent Woods Keystone door opened!#
 9|7=2|8|58674|21500|bool|true
 48248|37606|6|<s_2>IT. FUCKEN. WIMDY!!!
 9|8=4|6|#Required Progression Keystone door opened!#
 9|8=4|8|18793|41544|bool|true
 58674|902|0|100
+58674|61616>0|8|58674|61616|int|0
+58674|61616>0|6|@Find another way@
+58674|61616>0|4|8|1292|-3993
+58674|61616>0|4|0
 36153|23584|6|Well... This is it! You are almost there! Only one last challenge to overcome!|f=480
 
 // Windswept Wastes
