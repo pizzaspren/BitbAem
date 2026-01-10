@@ -1,6 +1,6 @@
 // Format Version: 1.0.0
 // Slug: BitbAem!
-// Config: {"worldSettings":[{"spawn":"MarshSpawn.Main","difficulty":"Unsafe","hard":false,"randomizeDoors":false,"goals":[],"headers":[],"headerConfig":[],"inlineHeaders":[]}],"disableLogicFilter":true,"online":false,"createGame":"None"}
+// Config: {"worldSettings":[{"spawn":"MarshSpawn.Main","difficulty":"Unsafe","hard":false,"randomizeDoors":false,"tricks":[],"goals":[],"headers":[],"headerConfig":[],"inlineHeaders":[]}],"disableLogicFilter":true,"online":false,"createGame":"None"}
     
 // Alt-4 fixes
 3|5|8|9|150|float|0
@@ -23,7 +23,7 @@
 3|1|16|0|2|1|Fastest recorded completions
 3|1|16|1|2|1|Press to see
 3|1|16|2|2|1|spell:4000
-3|1|16|4|2|1|0|6|$Standard$: <hex_ff8c00ff>zre<hex_ffffffff> - 04h 00m 56s\n@Hard@: <hex_128cffff>Sirius<hex_ffffffff> - 04h 35m 03s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
+3|1|16|4|2|1|0|6|$Standard$: <hex_00736cff>Foopyo<hex_ffffffff> - 03h 15m 44s\n@Hard@: <hex_128cffff>Sirius<hex_ffffffff> - 04h 35m 03s\n<purple>Hitless</>: Empty - 00h 00m 00s - 0 deaths
 3|1|16|0|2|2|Top 10 fastest *Launch* pickups
 3|1|16|1|2|2|Press to see
 3|1|16|2|2|2|spell:2019
@@ -619,6 +619,7 @@ timer: 9|105|9|151
 5377|35440|6|Hmmm, if only a #kind moki# could break this floor for you...
 5377|18345|6|Peekaboo!
 5377|17396|0|12
+5377|40328|6|Watch out!!!
 5377|44122|6|Break the wall to your right to spawn #Kwolok# for the escape|f=300
 5377|21860|6|Not this one, sorry
 5377|1600|6|There's a small handwritten note on the ground:\n\n<s_0.7>$None are as brave as I, Mokk the Brave!\nI am taking the blue cookie with me as proof!\nI am now leaving to explore the den of the$ #Howler#!$|f=900
@@ -864,7 +865,7 @@ timer: 9|105|9|151
 28895|29898|6|Not here, sorry.
 28895|18358|6|You need to access the Reach escape from Glades, as the snowball blocks your path.|f=300
 28895|10823|0|24
-28895|35045|6|Did I forget to place something here?
+28895|22761|6|Did I forget to place something here?
 23987|36359|6|You will be warped to Mount Horu escape shortly, please hold on...|f=240
 3|0|8|28895|3777|bool|true
 3|0|8|28895|45066|bool|true
